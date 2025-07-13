@@ -1,5388 +1,5400 @@
 ﻿1
-00:01:00,000 --> 00:01:10,040
-Dracula. Son nom seul suffit à nous faire trembler. Enfin presque. Il semble en effet
+00:01:00,020 --> 00:01:02,100
+Dracula.
 
 2
+00:01:02,640 --> 00:01:05,540
+Son nom seul suffit à nous faire trembler. 
+
+3
+00:01:05,700 --> 00:01:07,880
+Enfin presque.
+
+4
+00:01:08,380 --> 00:01:09,740
+Il semble en effet
+
+5
 00:01:10,040 --> 00:01:15,400
 que sa descendance, sans doute usée par les méfaits de la vie moderne, ait besoin d'adjoindre
 
-3
+6
 00:01:15,400 --> 00:01:24,560
 au pouvoir terrible de ces trois syllabes, celui bien efficace d'une potion. Potion
 
-4
+7
 00:01:24,560 --> 00:01:29,960
 qui rend possible toutes les menues taches nocturnes de tout vampire qui se respecte, telles
 
-5
+8
 00:01:29,960 --> 00:01:36,560
 que se transformer en chauve-souris, marcher le long des murs, ou se voir pourvu de ces deux
 
-6
+9
 00:01:36,560 --> 00:01:42,200
 merveilleuses canines qui permettent de s'abreuver joyeusement du sang frais de son prochain.
 
-7
+10
 00:01:42,200 --> 00:01:49,600
 Eh oui, le vampire d'aujourd'hui n'est plus ce qu'il était. En est témoin ce charmant
 
-8
+11
 00:01:49,600 --> 00:01:54,880
 dracounais que ses douze jeunes années n'empêchent pas de vouloir mordre sur les traces de son
 
-9
+12
 00:01:54,880 --> 00:02:02,840
 papa. Mais voilà, maman n'est pas d'accord. Je veux pas de cette soupe. Je veux la potion de papa.
 
-10
+13
 00:02:02,840 --> 00:02:24,320
 Qu'est-ce qu'elle a, ma soupe? Elle est pas bonne, ma soupe? Dégueulasse. Comment? J'en ai marre de cette soupe. Je veux la potion du papa. Les autres au village, ils disent que je ne suis pas un vrai vampire. Je veux la potion, je veux la potion.
 
-11
+14
 00:02:24,320 --> 00:02:35,920
 Ça te fait tu m'énerves. Et puis mange, ça se coagule. Moi vivante, il n'est pas question que tu boives la potion. J'ai assez supporté les frasques de ton père.
 
-12
+15
 00:02:35,920 --> 00:02:41,840
 Et je n'ai aucune envie de passer à nouveau mes nuits à attendre en proie à toutes les peurs du monde.
 
-13
+16
 00:02:42,400 --> 00:02:57,280
 Reviens à table. Je te préviens. Si tu essaies de toucher cette fiole, tu seras pétrifié sur place. Que la malédiction soit sur toi.
 
-14
+17
 00:02:57,520 --> 00:03:00,320
 Tu ne serais pas capable, tu me fais marcher.
 
-15
+18
 00:03:00,320 --> 00:03:05,760
 Ah oui? Essaye pour voir. Espèce de petit conte à la manque.
 
-16
+19
 00:03:05,760 --> 00:03:09,360
 Berta? Berta?
 
-17
+20
 00:03:09,360 --> 00:03:11,040
 Oui, monsieur le compte.
 
-18
+21
 00:03:11,040 --> 00:03:13,840
 Berta, donne-moi cette fiole, veux-tu?
 
-19
+22
 00:03:17,120 --> 00:03:18,320
 Faites ce qu'elle vous dit.
 
-20
+23
 00:03:27,280 --> 00:03:37,200
 Elle est folle, elle est complètement folle.
 
-21
+24
 00:03:37,200 --> 00:03:44,640
 Pas si folle que ça. La malédiction fonctionnait à merveille. Et la comtesse s'assurait ainsi des repas sans pleurs ni rincement de canine.
 
-22
+25
 00:03:44,640 --> 00:03:49,200
 L'affection débordante du petit dracounet lui fit même améliorer le maléfice.
 
-23
+26
 00:03:49,200 --> 00:03:54,640
 Je te déteste, je voudrais que tu meurs, que tu sois brulée vive et que je vois plus ta tête de vieille sorcière.
 
-24
+27
 00:03:55,120 --> 00:03:57,920
 Petit monstre, tu n'es pas prêt de l'oublier ma figure.
 
-25
+28
 00:03:59,920 --> 00:04:05,120
 Car moi seule pourrais reprendre cette fiole. Moi seule.
 
-26
+29
 00:04:05,120 --> 00:04:10,960
 Ou toutes femmes qui me ressemblera trait pour trait.
 
-27
+30
 00:04:10,960 --> 00:04:15,760
 Complètement folle. C'est ce que je disais.
 
-28
+31
 00:04:15,760 --> 00:04:20,720
 Les nuits passèrent, succédant aux nuits, puis les mois, les années.
 
-29
+32
 00:04:21,520 --> 00:04:36,000
 Et par un vilain soir d'un été pourri, la comtesse Dracula rejoignit à jamais le territoire des ombres, abandonnant dans un dernier ricanement son pauvre fils, aux prises avec sa chère malédiction.
 
-30
+33
 00:04:36,000 --> 00:04:39,120
 Je n'y arriverai jamais.
 
-31
+34
 00:04:39,120 --> 00:04:42,720
 A Monsieur le Comte, il y a deux messieurs qui attendent pour ce que vous savez.
 
-32
+35
 00:04:42,720 --> 00:04:45,200
 Amenez-lui immédiatement, le premier.
 
-33
+36
 00:04:45,200 --> 00:04:56,720
 Et vous avez avec vous le document photographique ?
 
-34
+37
 00:04:56,720 --> 00:05:01,440
 Oui ou non ?
 
-35
+38
 00:05:01,440 --> 00:05:02,480
 Très bien.
 
-36
+39
 00:05:02,480 --> 00:05:14,640
 Ah oui, vous avez raison.
 
-37
+40
 00:05:14,640 --> 00:05:22,640
 La ressemblance est tellement frappante qu'elle vous frappe comme une giffle.
 
-38
+41
 00:05:22,640 --> 00:05:24,880
 Je fais un chèque.
 
-39
+42
 00:05:24,880 --> 00:05:25,680
 Oui.
 
-40
+43
 00:05:25,680 --> 00:05:28,400
 Est-ce possible de me donner cette fiole là ?
 
-41
+44
 00:05:28,400 --> 00:05:31,440
 Celle là. C'est là, cette bouteille là.
 
-42
+45
 00:05:31,440 --> 00:05:40,080
 Débarrassez-moi de ça.
 
-43
+46
 00:05:40,080 --> 00:05:46,320
 J'avertis Monsieur le Comte qu'il n'y aura bientôt plus de place pour mettre tous ces gens là.
 
-44
+47
 00:05:46,320 --> 00:05:47,760
 Je m'en fous moi.
 
-45
+48
 00:06:02,320 --> 00:06:04,560
 Amenez-moi l'autre.
 
-46
+49
 00:06:04,560 --> 00:06:09,040
 Monsieur le Comte, j'ai mis la main sur la personne.
 
-47
+50
 00:06:09,040 --> 00:06:11,520
 Bien, donnez-moi la photo.
 
-48
+51
 00:06:11,520 --> 00:06:29,600
 C'est elle.
 
-49
+52
 00:06:30,240 --> 00:06:31,200
 C'est elle.
 
-50
+53
 00:06:31,200 --> 00:06:36,720
 Avec elle, je deviens le maître du monde.
 
-51
+54
 00:06:36,720 --> 00:06:38,400
 Ah tu es là. Comment t'appelles-tu ?
 
-52
+55
 00:06:38,400 --> 00:06:41,520
 Le Pope, Monsieur le Comte. Gaston le Pope.
 
-53
+56
 00:06:41,520 --> 00:06:45,200
 Le Pope.
 
-54
+57
 00:06:45,200 --> 00:06:46,560
 Le Pope, je t'aime.
 
-55
+58
 00:06:46,560 --> 00:06:49,280
 Oui, Monsieur le Comte est trop bon.
 
-56
+59
 00:06:49,280 --> 00:06:50,400
 Et où est-elle ?
 
-57
+60
 00:06:50,400 --> 00:06:52,800
 À Paris.
 
-58
+61
 00:06:52,800 --> 00:06:53,440
 À Paris ?
 
-59
+62
 00:06:53,440 --> 00:06:55,360
 Oui, en France, à Paris.
 
-60
+63
 00:06:55,360 --> 00:06:59,040
 Eh bien, le Pope, je ne t'aime plus. Pourquoi elle n'est pas là ?
 
-61
+64
 00:06:59,120 --> 00:07:01,520
 C'est à dire que avant de me lancer dans des frais considérables...
 
-62
+65
 00:07:01,520 --> 00:07:02,480
 M'en va !
 
-63
+66
 00:07:02,480 --> 00:07:03,680
 ...je voulais etre sûr que...
 
-64
+67
 00:07:03,680 --> 00:07:07,760
 Retournez à Paris, ramenez-la ici, immédiatement.
 
-65
+68
 00:07:07,760 --> 00:07:09,280
 C'est combien l'armoire ?
 
-66
+69
 00:07:09,280 --> 00:07:11,840
 Monsieur s'intéresse à l'armoire, il voudrait en connaître le prix.
 
-67
+70
 00:07:11,840 --> 00:07:15,520
 Je vois que Monsieur est connaisseur. Du beau travail, n'est-ce pas ?
 
-68
+71
 00:07:15,520 --> 00:07:16,960
 Elle vaut 6000 francs.
 
-69
+72
 00:07:16,960 --> 00:07:17,840
 C'est très cher.
 
-70
+73
 00:07:17,840 --> 00:07:19,600
 C'est cher, mais c'est beau et c'est ancien.
 
-71
+74
 00:07:19,600 --> 00:07:22,640
 Les... Non, vous t'inquiétez pas, c'est mon copain, il débute.
 
-72
+75
 00:07:22,640 --> 00:07:25,280
 Les vitraux et les ferrures sont du 17ème.
 
-73
+76
 00:07:25,280 --> 00:07:27,520
 Bien sûr, mais c'est très cher quand même.
 
-74
+77
 00:07:27,520 --> 00:07:29,600
 Qu'à cela ne tienne, ça peut s'arranger.
 
-75
+78
 00:07:31,120 --> 00:07:32,800
 Voilà, pour 700 francs, elle est à vous.
 
-76
+79
 00:07:32,800 --> 00:07:35,120
 700 francs ? C'est honnête, marché conclu.
 
-77
+80
 00:07:50,080 --> 00:07:52,320
 Ah bah, pour du vieillissement, c'est du vieillissement, ça.
 
-78
+81
 00:07:54,800 --> 00:07:56,480
 Il a pris un sacré coup de vieux.
 
-79
+82
 00:07:57,520 --> 00:07:58,800
 C'est clair, c'est bien.
 
-80
+83
 00:08:10,640 --> 00:08:12,480
 Ils sont à vendre ces grandes boxes ?
 
-81
+84
 00:08:13,520 --> 00:08:15,440
 Bien sûr, ils sont à vendre, vous voulez les essayer ?
 
-82
+85
 00:08:15,440 --> 00:08:17,040
 Ah oui ? Si c'est possible.
 
-83
+86
 00:08:17,040 --> 00:08:19,920
 C'est tout à fait possible. Vous allez voir, ils sont comme neuf.
 
-84
+87
 00:08:19,920 --> 00:08:23,440
 Regardez-moi ça, une occasion magnifique. Vous allez en être contents.
 
-85
+88
 00:08:23,440 --> 00:08:25,440
 Ils marchent vraiment bien.
 
-86
+89
 00:08:25,440 --> 00:08:26,440
 Je vous l'avais dit.
 
-87
+90
 00:08:26,440 --> 00:08:27,440
 Combien ?
 
-88
+91
 00:08:27,440 --> 00:08:28,440
 200 francs.
 
-89
+92
 00:08:28,440 --> 00:08:29,440
 Merci, je suis content.
 
-90
+93
 00:08:29,440 --> 00:08:30,440
 Merci, à votre service.
 
-91
+94
 00:08:30,440 --> 00:08:32,440
 Au revoir.
 
-92
+95
 00:08:32,440 --> 00:08:33,440
 C'est loin ?
 
-93
+96
 00:08:33,440 --> 00:08:34,440
 Je suis là.
 
-94
+97
 00:08:36,440 --> 00:08:38,440
 Je comprends rien, c'est la deuxième fois que ça arrive cette semaine.
 
-95
+98
 00:08:38,440 --> 00:08:39,440
 Par ici.
 
-96
+99
 00:08:40,440 --> 00:08:42,440
 Surtout ne lâchez pas la flèche.
 
-97
+100
 00:08:42,440 --> 00:08:43,440
 Faut la casser as ras de la blessure.
 
-98
+101
 00:08:43,440 --> 00:08:44,440
 On vous la met où ?
 
-99
+102
 00:08:44,440 --> 00:08:46,440
 Mettez-la sur la banquette arrière.
 
-100
+103
 00:08:47,440 --> 00:08:48,440
 Ça rentrera jamais ?
 
-101
+104
 00:08:48,440 --> 00:08:51,440
 Si ça rentrera, il y a de la place à la laisser.
 
-102
+105
 00:08:51,440 --> 00:08:54,440
 Faites gaffe à ma voiture, les gars, quand même.
 
-103
+106
 00:08:54,440 --> 00:08:56,440
 On va vous la charger sur le toit.
 
-104
+107
 00:08:56,440 --> 00:08:58,440
 Vous n'auriez pas une couverture pour ne pas railler peinture ?
 
-105
+108
 00:08:58,440 --> 00:09:00,440
 Attendez, j'en ai une.
 
-106
+109
 00:09:03,440 --> 00:09:04,440
 Parfait.
 
-107
+110
 00:09:10,440 --> 00:09:12,440
 Vous aviez raison.
 
-108
+111
 00:09:12,440 --> 00:09:14,440
 Tiens, sur le siège arrière.
 
-109
+112
 00:09:22,440 --> 00:09:24,440
 Mademoiselle.
 
-110
+113
 00:09:24,440 --> 00:09:26,440
 Bonjour, mademoiselle.
 
-111
+114
 00:09:26,440 --> 00:09:28,440
 Je n'irai pas par quatre chemins.
 
-112
+115
 00:09:28,440 --> 00:09:31,440
 Je m'appelle Gaston Lepope, enquête et filature.
 
-113
+116
 00:09:31,440 --> 00:09:35,440
 Je travaille pour un client étranger de Transylvanie.
 
-114
+117
 00:09:35,440 --> 00:09:37,440
 Et ce client qui appartient à la noblesse,
 
-115
+118
 00:09:37,440 --> 00:09:41,440
 d'ailleurs, puisqu'il est comte, ce client se trouve avoir besoin de vous.
 
-116
+119
 00:09:41,440 --> 00:09:44,440
 Je sais, ça peut vous paraître étrange,
 
-117
+120
 00:09:44,440 --> 00:09:48,440
 mais curieusement, vous êtes le portrait vivant de sa mère,
 
-118
+121
 00:09:48,440 --> 00:09:50,440
 chérie, récemment disparue,
 
-119
+122
 00:09:50,440 --> 00:09:53,440
 et il aurait besoin de vous, de votre personne,
 
-120
+123
 00:09:53,440 --> 00:09:57,440
 pour organiser une petite cérémonie sans conséquence.
 
-121
+124
 00:09:57,440 --> 00:10:01,440
 Il est prêt pour ça à vous offrir la somme rondelette de 50 000 francs.
 
-122
+125
 00:10:01,440 --> 00:10:03,440
 Écoutez, vous auriez pu trouver plus simple.
 
-123
+126
 00:10:03,440 --> 00:10:05,440
 Vous ne me croyez pas.
 
-124
+127
 00:10:05,440 --> 00:10:07,440
 Si vous croyez que vous êtes le premier dragueur qui rentre ici,
 
-125
+128
 00:10:07,440 --> 00:10:09,440
 maintenant salut.
 
-126
+129
 00:10:09,440 --> 00:10:11,440
 Vous vous méprenez complètement, mademoiselle.
 
-127
+130
 00:10:11,440 --> 00:10:13,440
 Vous pouvez monter, s'il vous plaît.
 
-128
+131
 00:10:13,440 --> 00:10:15,440
 Mes intentions sont tout à fait honnêtes.
 
-129
+132
 00:10:15,440 --> 00:10:18,440
 Vous voyez le monsieur qui est là derrière ? C'est mon fiancé.
 
-130
+133
 00:10:18,440 --> 00:10:21,440
 Mademoiselle, vous commettez une regrettable erreur.
 
-131
+134
 00:10:27,440 --> 00:10:29,440
 Fermez pas la porte !
 
-132
+135
 00:10:29,440 --> 00:10:31,440
 Ah dis donc, tu l'as bien lancé, celui-là.
 
-133
+136
 00:10:45,440 --> 00:10:47,440
 Entrez, monsieur Entrez.
 
-134
+137
 00:10:47,440 --> 00:10:49,440
 Même si ce n'est que pour le plaisir des yeux.
 
-135
+138
 00:10:49,440 --> 00:10:52,440
 Avec des lunettes noires, on ne voit pas grand-chose.
 
-136
+139
 00:10:52,440 --> 00:10:54,440
 Je vois. Je peux vous aider ?
 
-137
+140
 00:10:54,440 --> 00:10:57,440
 Je ne suis pas fixé. Je regarde.
 
-138
+141
 00:10:57,440 --> 00:11:01,440
 Je vous laisse. Faites comme chez vous.
 
-139
+142
 00:11:15,440 --> 00:11:17,440
 Ça va pas, non ? Mais qu'est-ce qui vous prend ?
 
-140
+143
 00:11:17,440 --> 00:11:19,440
 Vous avez entendu ?
 
-141
+144
 00:11:19,440 --> 00:11:21,440
 Quoi ? Entendu quoi ?
 
-142
+145
 00:11:21,440 --> 00:11:23,440
 Le bruit. Vous n'avez pas entendu ?
 
-143
+146
 00:11:23,440 --> 00:11:25,440
 J'ai failli me faire avoir, elle est fausse.
 
-144
+147
 00:11:25,440 --> 00:11:27,440
 Elle est fausse ?
 
-145
+148
 00:11:27,440 --> 00:11:29,440
 Écoutez, vous allez voir.
 
-146
+149
 00:11:29,440 --> 00:11:31,440
 Vous n'entendez pas ?
 
-147
+150
 00:11:31,440 --> 00:11:33,440
 Ça, c'est faux.
 
-148
+151
 00:11:33,440 --> 00:11:35,440
 C'est l'archi faux.
 
-149
+152
 00:11:35,440 --> 00:11:37,440
 C'est une escroquerie.
 
-150
+153
 00:11:37,440 --> 00:11:39,440
 Écoutez, vous n'avez pas l'oreille.
 
-151
+154
 00:11:39,440 --> 00:11:41,440
 Ça, c'est faux.
 
-152
+155
 00:11:41,440 --> 00:11:43,440
 C'est l'archi fausse.
 
-153
+156
 00:11:43,440 --> 00:11:45,440
 Écoutez, vous n'avez pas l'oreille.
 
-154
+157
 00:11:45,440 --> 00:11:51,440
 Ça, c'est fausse.
 
-155
+158
 00:11:51,440 --> 00:11:53,440
 Non, elle était vraie.
 
-156
+159
 00:11:53,440 --> 00:11:55,440
 Je vais vous donner un tuyau. Ça se reconnaît à la forme des éclats.
 
-157
+160
 00:11:55,440 --> 00:11:57,440
 Regardez.
 
-158
+161
 00:11:57,440 --> 00:12:01,440
 Qu'est-ce qui se passe ?
 
-159
+162
 00:12:01,440 --> 00:12:03,440
 Ça fait mal ?
 
-160
+163
 00:12:09,440 --> 00:12:11,440
 Merde.
 
-161
+164
 00:12:13,440 --> 00:12:15,440
 Ça rentrait pas.
 
-162
+165
 00:12:21,440 --> 00:12:23,440
 J'arrive, j'arrive, j'arrive.
 
-163
+166
 00:12:23,440 --> 00:12:25,440
 Voilà.
 
-164
+167
 00:12:27,440 --> 00:12:29,440
 Allez, Jojo.
 
-165
+168
 00:12:41,440 --> 00:12:43,440
 Quelqu'un s'occupe de vous, monsieur ?
 
-166
+169
 00:12:43,440 --> 00:12:45,440
 Justement, j'attendais. Il n'y a personne.
 
-167
+170
 00:12:45,440 --> 00:12:47,440
 C'est dingue. Ils sont partis tous les deux.
 
-168
+171
 00:12:47,440 --> 00:12:49,440
 On peut vous aider ?
 
-169
+172
 00:12:49,440 --> 00:12:51,440
 Oui.
 
-170
+173
 00:12:51,440 --> 00:12:53,440
 J'aurais voulu acheter cette armoire.
 
-171
+174
 00:12:53,440 --> 00:12:55,440
 Ah, monsieur est connaisseur.
 
-172
+175
 00:12:55,440 --> 00:12:57,440
 Du beau travail, n'est-ce pas ?
 
-173
+176
 00:12:57,440 --> 00:12:59,440
 C'est 5000 francs.
 
-174
+177
 00:12:59,440 --> 00:13:01,440
 C'est cher.
 
-175
+178
 00:13:01,440 --> 00:13:03,440
 Le miroir et les ferrures sont du XVIIe.
 
-176
+179
 00:13:03,440 --> 00:13:05,440
 C'est cher.
 
-177
+180
 00:13:05,440 --> 00:13:07,440
 Vous voulez peut-être prendre voir l'interrieur ?
 
-178
+181
 00:13:07,440 --> 00:13:09,440
 Non, je ne supporte pas qu'on ouvre une porte d'armoire devant moi.
 
-179
+182
 00:13:09,440 --> 00:13:11,440
 C'est maladif.
 
-180
+183
 00:13:11,440 --> 00:13:13,440
 Je vais la prendre.
 
-181
+184
 00:13:13,440 --> 00:13:15,440
 J'aimerais qu'on me la livre dès maintenant à la gare de l'Est.
 
-182
+185
 00:13:15,440 --> 00:13:17,440
 Écoutez.
 
-183
+186
 00:13:17,440 --> 00:13:19,440
 Pour un client aussi sympathique, on peut peut-être s'arranger.
 
-184
+187
 00:13:19,440 --> 00:13:21,440
 C'est combien ?
 
-185
+188
 00:13:21,440 --> 00:13:23,440
 500 francs.
 
-186
+189
 00:13:23,440 --> 00:13:25,440
 Dépêchez-vous parce que j'ai un train à 18h12.
 
-187
+190
 00:13:25,440 --> 00:13:27,440
 Je ne peux pas me permettre de le rater.
 
-188
+191
 00:13:27,440 --> 00:13:29,440
 18h12, ça va être juste.
 
-189
+192
 00:13:29,440 --> 00:13:31,440
 C'est comme si on y etait.
 
-190
+193
 00:13:31,440 --> 00:13:33,440
 Je peux prendre la clé ?
 
-191
+194
 00:13:33,440 --> 00:13:35,440
 Tu es prêt ?
 
-192
+195
 00:13:35,440 --> 00:13:37,440
 On y va.
 
-193
+196
 00:13:37,440 --> 00:13:39,440
 Il y a peut-être un cadavre à l'intérieur.
 
-194
+197
 00:13:43,440 --> 00:13:45,440
 Marcel, tu peux jeter un oeil sur le stand.
 
-195
+198
 00:13:45,440 --> 00:13:47,440
 On va livrer ça à gare de l'Est.
 
-196
+199
 00:13:47,440 --> 00:13:49,440
 Il n'y a plus rien qui arrive.
 
-197
+200
 00:13:49,440 --> 00:13:51,440
 Pas de problème.
 
-198
+201
 00:13:51,440 --> 00:13:53,440
 Ça va, monsieur.
 
-199
+202
 00:13:53,440 --> 00:13:55,440
 Merci.
 
-200
+203
 00:13:55,440 --> 00:13:57,440
 Bonjour, madame.
 
-201
+204
 00:13:57,440 --> 00:13:59,440
 Ils vont revenir bientôt.
 
-202
+205
 00:13:59,440 --> 00:14:01,440
 Si vous voulez attendre quelques minutes, je vous en prie.
 
-203
+206
 00:14:11,440 --> 00:14:13,440
 Salaud !
 
-204
+207
 00:14:13,440 --> 00:14:15,440
 Qu'est-ce qu'il te prend ?
 
-205
+208
 00:14:15,440 --> 00:14:17,440
 J'arrache le foie avec les dents.
 
-206
+209
 00:14:17,440 --> 00:14:19,440
 Qu'est-ce qu'il te prend ? De qui tu parles ?
 
-207
+210
 00:14:19,440 --> 00:14:21,440
 Le mec en blanc.
 
-208
+211
 00:14:21,440 --> 00:14:23,440
 Avec une barbichette.
 
-209
+212
 00:14:23,440 --> 00:14:25,440
 Tu l'as vu ?
 
-210
+213
 00:14:25,440 --> 00:14:27,440
 Bah oui, Jean et Gerard sont en train de lui livrer une armoire à gare de l'est
 
-211
+214
 00:14:27,440 --> 00:14:53,000
 L消息 est
 
-212
+215
 00:14:55,440 --> 00:15:05,440
 Un homme avec une barbichette en blanc, il a fait enregistrer son armoire en bagages accompagnés pour la Roumanie, un aller simple en gare de Bucarest.
 
-213
+216
 00:15:05,440 --> 00:15:11,440
 Quelle dommage monsieur, il ne fallait pas prononcer le mot Roumanie, vous avez perdu, vous avez perdu, enfin on l'applaudit quand même.
 
-214
+217
 00:15:11,440 --> 00:15:14,440
 Et bien ici, le Gare de l'Est, à vous les studios.
 
-215
+218
 00:15:14,440 --> 00:15:17,440
 Oh merde, pourquoi j'ai dit Roumanie moi ?
 
-216
+219
 00:15:17,440 --> 00:15:24,440
 Le train à destination de Bucarest va partir, fermez les portières s'il vous plait.
 
-217
+220
 00:15:24,440 --> 00:15:33,440
 Attention au départ. Le train à destination de Bucarest va partir. Attention au départ.
 
-218
+221
 00:15:38,440 --> 00:15:41,440
 Suivez ce train, vous n'aurez pas à faire un ingrat.
 
-219
+222
 00:15:41,440 --> 00:15:44,440
 Bien chef, accrochez-vous, c'est comme si on y était.
 
-220
+223
 00:15:48,440 --> 00:15:50,440
 Allez, allez, allez.
 
-221
+224
 00:15:56,440 --> 00:15:58,440
 Dommage, il était bien ce type.
 
-222
+225
 00:15:58,440 --> 00:16:00,440
 C'est bête pour tes dix sacs.
 
-223
+226
 00:16:00,440 --> 00:16:02,440
 Ah oui ? Et ça c'est quoi ?
 
-224
+227
 00:16:02,440 --> 00:16:04,440
 Oh oh oh, allez vite.
 
-225
+228
 00:16:12,440 --> 00:16:14,440
 Allez, viens.
 
-226
+229
 00:16:17,440 --> 00:16:19,440
 Il y a son mouchoir, je le reconnais.
 
-227
+230
 00:16:19,440 --> 00:16:21,440
 T'es sûr ? Mais elle était habillée comment aujourd'hui ?
 
-228
+231
 00:16:21,440 --> 00:16:23,440
 Avec sa veste à carreaux.
 
-229
+232
 00:16:23,440 --> 00:16:25,440
 Un mouchoir à poids avec une veste à carreaux ?
 
-230
+233
 00:16:35,440 --> 00:16:37,440
 Je vous en supplie, ne dites rien.
 
-231
+234
 00:16:37,440 --> 00:16:40,440
 Voyage en clandestin, je n'ai pas de billets.
 
-232
+235
 00:16:40,440 --> 00:16:42,440
 Excusez-nous.
 
-233
+236
 00:16:42,440 --> 00:16:46,440
 C'est simple, on est en queue, on monte vers la loco, on est sûr de la trouver ?
 
-234
+237
 00:16:46,440 --> 00:16:48,440
 Oui, je ne me remarque pas de ça. ????
 
-235
+238
 00:16:48,440 --> 00:16:50,440
 Bon, alors au boulot.
 
-236
+239
 00:17:01,440 --> 00:17:03,440
 Elle a laissé son numéro de téléphone.
 
-237
+240
 00:17:03,440 --> 00:17:06,440
 Très bien, comme ça tu pourras lui rapporter son soutien gorge.
 
-238
+241
 00:17:06,440 --> 00:17:08,440
 Ah bravo.
 
-239
+242
 00:17:11,440 --> 00:17:13,440
 C'est un compartiment fumeur ici monsieur.
 
-240
+243
 00:17:13,440 --> 00:17:15,440
 Excusez-moi monsieur.
 
-241
+244
 00:17:16,440 --> 00:17:18,440
 Allez.
 
-242
+245
 00:17:30,440 --> 00:17:35,440
 Allez, encore une petite dose et tu vas trouver la vie belle ma jolie.
 
-243
+246
 00:17:39,440 --> 00:17:41,440
 Le contrôleur! qu'est-ce qu'on fait ?
 
-244
+247
 00:17:41,440 --> 00:17:43,440
 Je connais un vieux truc, venez.
 
-245
+248
 00:17:46,440 --> 00:17:48,440
 Billets s'il-vous-plaît.
 
-246
+249
 00:17:56,440 --> 00:17:58,440
 Merci à tous.
 
-247
+250
 00:17:58,440 --> 00:18:03,440
 S'il-vous-plaît monsieur, vous n'avez pas vu une blonde avec une veste à carreaux grise ?
 
-248
+251
 00:18:03,440 --> 00:18:05,440
 En rouge j'en ai bien vu dix monsieur.
 
-249
+252
 00:18:05,440 --> 00:18:07,440
 Avec un petit barbu qui est habillé en tennis man.
 
-250
+253
 00:18:07,440 --> 00:18:10,440
 Là je crois bien que j'ai quelqu'un qui correspond signalement dans le wagon à côté.
 
-251
+254
 00:18:10,440 --> 00:18:12,440
 Il est dans le couloir.
 
-252
+255
 00:18:16,440 --> 00:18:25,440
 Bonsoir monsieur, excusez-nous de vous déranger mais nous aurions voulu savoir, si c'est pas indiscret, la marque de votre chemise parce que nous la trouvons très belle.
 
-253
+256
 00:18:25,440 --> 00:18:28,440
 C'est ma femme qui me l'a faite, elle est couturière.
 
-254
+257
 00:18:28,440 --> 00:18:30,440
 Vous avez de la chance.
 
-255
+258
 00:18:30,440 --> 00:18:31,440
 Oui.
 
-256
+259
 00:18:31,440 --> 00:18:33,440
 Merci monsieur.
 
-257
+260
 00:18:33,440 --> 00:18:35,440
 Au revoir monsieur.
 
-258
+261
 00:18:35,440 --> 00:18:37,440
 Merci.
 
-259
+262
 00:18:46,440 --> 00:18:48,440
 Pardon ?
 
-260
+263
 00:18:50,440 --> 00:18:52,440
 Lâchez-moi la main monsieur, merci.
 
-261
+264
 00:18:52,440 --> 00:18:54,440
 Oui ?
 
-262
+265
 00:18:54,440 --> 00:18:56,440
 Oui.
 
-263
+266
 00:18:56,440 --> 00:19:14,440
 Ha ha.
 
-264
+267
 00:19:14,440 --> 00:19:16,440
 ts
 
-265
+268
 00:19:16,440 --> 00:19:20,440
 訂
 
-266
+269
 00:19:20,440 --> 00:19:22,440
 toolbar
 
-267
+270
 00:19:22,440 --> 00:19:26,440
 ha
 
-268
+271
 00:19:36,440 --> 00:19:40,440
 Ha ha.
 
-269
+272
 00:19:40,440 --> 00:19:42,440
 Elle est joueuse.
 
-270
+273
 00:19:42,440 --> 00:19:51,440
 ...
 
-271
+274
 00:19:51,440 --> 00:19:54,440
 Elle aime pas beaucoup le saucisson, alors faut pas la forcer.
 
-272
+275
 00:19:58,440 --> 00:20:00,440
 On va pas reveiller tout le monde, quand même.
 
-273
+276
 00:20:01,440 --> 00:20:02,440
 Bougez pas.
 
-274
+277
 00:20:02,440 --> 00:20:09,440
 ...
 
-275
+278
 00:20:09,440 --> 00:20:11,440
 Ah, me demandez pas comment j'ai eu ça.
 
-276
+279
 00:20:11,440 --> 00:20:14,440
 Je le sais pas moi-même. C'est un vrai miracle.
 
-277
+280
 00:20:19,440 --> 00:20:20,440
 Il était pas là.
 
-278
+281
 00:20:20,440 --> 00:20:21,440
 T'es sûr ?
 
-279
+282
 00:20:21,440 --> 00:20:22,440
 Non.
 
-280
+283
 00:20:25,440 --> 00:20:26,440
 Là non plus ?
 
-281
+284
 00:20:26,440 --> 00:20:27,440
 Là.
 
-282
+285
 00:20:27,440 --> 00:20:28,440
 Ça, c'est...
 
-283
+286
 00:20:29,440 --> 00:20:30,440
 Ça, c'est aussi...
 
-284
+287
 00:20:34,440 --> 00:20:35,440
 J'en ai marre, moi.
 
-285
+288
 00:20:35,440 --> 00:20:36,440
 J'arrête, ça suffit prends ma place.
 
-286
+289
 00:20:36,440 --> 00:20:38,440
 Tiens, prends qu'il est beau, qu'il est beau.
 
-287
+290
 00:20:38,440 --> 00:20:39,440
 Tiens, vas-y.
 
-288
+291
 00:20:57,440 --> 00:20:58,440
 Excusez-moi.
 
-289
+292
 00:21:02,440 --> 00:21:05,440
 Monsieur le contrôleur, il y a un homme sous mon lit.
 
-290
+293
 00:21:07,440 --> 00:21:08,440
 Ah euh...
 
-291
+294
 00:21:08,440 --> 00:21:09,440
 On l'avait repéré.
 
-292
+295
 00:21:10,440 --> 00:21:12,440
 Il est sous notre surveillance.
 
-293
+296
 00:21:13,440 --> 00:21:14,440
 Ne vous inquiétez pas.
 
-294
+297
 00:21:14,440 --> 00:21:15,440
 Bonne nuit.
 
-295
+298
 00:21:15,440 --> 00:21:28,440
 ...
 
-296
+299
 00:21:28,440 --> 00:21:30,440
 Eh, vous voyez ce que je vois, là ?
 
-297
+300
 00:21:30,440 --> 00:21:31,440
 Qu'est-ce qu'il fout, là, lui ?
 
-298
+301
 00:21:31,440 --> 00:21:32,440
 Le champion de skateboard.
 
-299
+302
 00:21:34,440 --> 00:21:36,440
 À la queue, comme tout le monde.
 
-300
+303
 00:21:36,440 --> 00:21:37,440
 Non, mais là, chez moi, c'est ma fiancée.
 
-301
+304
 00:21:37,440 --> 00:21:38,440
 Elle vient d'être enlevée.
 
-302
+305
 00:21:38,440 --> 00:21:41,440
 Et tu crois que tu vas me la faire aussi facilement ?
 
-303
+306
 00:21:41,440 --> 00:21:42,440
 Ariane !
 
-304
+307
 00:21:42,440 --> 00:21:43,440
 T'énerve pas, bonhomme.
 
-305
+308
 00:21:43,440 --> 00:21:45,440
 Garde tes forces pour une prochaine fois.
 
-306
+309
 00:21:45,440 --> 00:21:48,440
 Les resquilleurs, moi, je les repére à des kilomètres.
 
-307
+310
 00:21:48,440 --> 00:21:50,440
 Elle va le trouver avec moi.
 
-308
+311
 00:21:51,440 --> 00:21:52,440
 Jeannot, le froc.
 
-309
+312
 00:21:54,440 --> 00:21:56,440
 Des barésilles avec un survêtement.
 
-310
+313
 00:21:56,440 --> 00:21:58,440
 On n'a pas le temps de parler chiffon, allez.
 
-311
+314
 00:21:59,440 --> 00:22:00,440
 Laissez passer, attention !
 
-312
+315
 00:22:04,440 --> 00:22:06,440
 J'avais demandé une sole meunnière.
 
-313
+316
 00:22:06,440 --> 00:22:07,440
 Oui.
 
-314
+317
 00:22:07,440 --> 00:22:08,440
 Et moi, un ricard.
 
-315
+318
 00:22:13,440 --> 00:22:14,440
 Attention !
 
-316
+319
 00:22:20,440 --> 00:22:21,440
 Non, non, restez assise, madame.
 
-317
+320
 00:22:21,440 --> 00:22:22,440
 Je vous en prie.
 
-318
+321
 00:22:24,440 --> 00:22:25,440
 Me voilà !
 
-319
+322
 00:22:25,440 --> 00:22:26,440
 Arrêtez !
 
-320
+323
 00:22:26,440 --> 00:22:28,440
 Si vous faites un pas de plus, cette femme est à notre mort.
 
-321
+324
 00:22:28,440 --> 00:22:30,440
 Elle va tout de même pas l'assassiner à la cuiillère.
 
-322
+325
 00:22:35,440 --> 00:22:37,440
 Ne laissez pas s'échapper, je vais le contourner.
 
-323
+326
 00:22:39,440 --> 00:22:40,440
 Vous !
 
-324
+327
 00:22:40,440 --> 00:22:41,440
 Vous avez bougé !
 
-325
+328
 00:22:41,440 --> 00:22:42,440
 Non, je n'ai pas bougé !
 
-326
+329
 00:22:42,440 --> 00:22:43,440
 Ah, j'ai vu vous !
 
-327
+330
 00:22:43,440 --> 00:22:44,440
 Selon lui.
 
-328
+331
 00:22:53,440 --> 00:22:54,440
 Tu ne bouges pas, toi !
 
-329
+332
 00:23:08,440 --> 00:23:10,440
 Ça doit être du gas soporifique.
 
-330
+333
 00:23:10,440 --> 00:23:11,440
 Je ne tiens plus debout, là.
 
-331
+334
 00:23:11,440 --> 00:23:12,440
 Qu'est-ce que tu fais, Jean ?
 
-332
+335
 00:23:12,440 --> 00:23:14,440
 Moi, je ne tiens pas à dormir tout habillé.
 
-333
+336
 00:23:14,440 --> 00:23:15,440
 Je prends mes précautions.
 
-334
+337
 00:23:18,440 --> 00:23:19,440
 Ah !
 
-335
+338
 00:23:19,440 --> 00:23:20,440
 Ah les vaches !
 
-336
+339
 00:23:31,440 --> 00:23:32,440
 On m'appelle Le Pop.
 
-337
+340
 00:23:32,440 --> 00:23:34,440
 Gaston Le Pop, enquête et filature.
 
-338
+341
 00:23:42,440 --> 00:23:44,440
 Bucharest, dans 30 minutes !
 
-339
+342
 00:23:45,440 --> 00:23:47,440
 Bucharest, dans 30 minutes !
 
-340
+343
 00:23:47,440 --> 00:23:48,440
 Bucharest !
 
-341
+344
 00:23:57,440 --> 00:23:59,440
 Vous êtes complètement fou, là ?
 
-342
+345
 00:23:59,440 --> 00:24:00,440
 Qu'est-ce qui vous prend ?
 
-343
+346
 00:24:02,440 --> 00:24:05,440
 J'étais sorti pour demander du feu parce que mon briquet ne marche pas.
 
-344
+347
 00:24:05,440 --> 00:24:06,440
 Oui.
 
-345
+348
 00:24:06,440 --> 00:24:07,440
 Attendez, je vous prête le mien.
 
-346
+349
 00:24:07,440 --> 00:24:08,440
 Merci.
 
-347
+350
 00:24:08,440 --> 00:24:10,440
 À propos, vous n'auriez pas vu une petite blonde
 
-348
+351
 00:24:10,440 --> 00:24:14,440
 avec un petit dégarni, moustache et costumes croisés ?
 
-349
+352
 00:24:15,440 --> 00:24:16,440
 Que si, j'ai les-là remarqués.
 
-350
+353
 00:24:16,440 --> 00:24:17,440
 Oui, et ils allaient où ?
 
-351
+354
 00:24:17,440 --> 00:24:19,440
 Je crois bien qu'ils descendaient en queue de train.
 
-352
+355
 00:24:19,440 --> 00:24:21,440
 À moins qu'ils soient déjà revenus à leur cabine.
 
-353
+356
 00:24:21,440 --> 00:24:22,440
 Tenez, c'est celle-ci, là.
 
-354
+357
 00:24:26,440 --> 00:24:27,440
 Personne !
 
-355
+358
 00:24:27,440 --> 00:24:28,440
 Mais regardez ce que j'ai trouvé !
 
-356
+359
 00:24:29,440 --> 00:24:30,440
 Il nous a bien eu, l'animal !
 
-357
+360
 00:24:30,440 --> 00:24:32,440
 Allez, direction le wagon de queue !
 
-358
+361
 00:24:32,440 --> 00:24:34,440
 Qu'est-ce que c'est que ces façons d'écouter aux portes ?
 
-359
+362
 00:24:34,440 --> 00:24:35,440
 Vous voulez que je vous aide ?
 
-360
+363
 00:25:03,440 --> 00:25:04,440
 Oh !
 
-361
+364
 00:25:05,440 --> 00:25:07,440
 Il doit y avoir un moyen d'ouvrir ça !
 
-362
+365
 00:25:09,440 --> 00:25:10,440
 Tu l'emporteras pas au paradis !
 
-363
+366
 00:25:10,440 --> 00:25:11,440
 Il le détache.
 
-364
+367
 00:25:28,440 --> 00:25:29,440
 Allez, on saute !
 
-365
+368
 00:25:29,440 --> 00:25:30,440
 T'en a de bonnes, Toi.
 
-366
+369
 00:25:30,440 --> 00:25:31,440
 il a qu'à tirer le signal d'alarme.
 
-367
+370
 00:25:31,440 --> 00:25:32,440
 C'est moins casse-gueule.
 
-368
+371
 00:25:33,440 --> 00:25:34,440
 Il a raison.
 
-369
+372
 00:25:35,440 --> 00:25:37,440
 Je reconnais que c'est marrant de sauter du train,
 
-370
+373
 00:25:37,440 --> 00:25:38,440
 mais est-ce que c'est bien raisonnable ?
 
-371
+374
 00:25:40,440 --> 00:25:41,440
 Alors vous me laissez tomber.
 
-372
+375
 00:25:42,440 --> 00:25:43,440
 C'est ça?
 
-373
+376
 00:25:52,440 --> 00:25:54,440
 Merci les mecs, c'est sympa d'être venus.
 
-374
+377
 00:25:54,440 --> 00:25:56,440
 Arrête, tu vas me faire rougir.
 
-375
+378
 00:26:00,440 --> 00:26:01,440
 Hé, c'est haut, dis donc !
 
-376
+379
 00:26:02,440 --> 00:26:03,440
 Oui.
 
-377
+380
 00:26:03,440 --> 00:26:05,440
 Je crois bien qu'on a sauté d'un des plus hauts ponts d'Europe.
 
-378
+381
 00:26:06,440 --> 00:26:09,440
 Il a été construit en divisant 85 d'après les travaux d'Effel
 
-379
+382
 00:26:09,440 --> 00:26:12,440
 pour le viaduc de Garabit, dans le Cantal, sur la Trouillère.
 
-380
+383
 00:26:13,440 --> 00:26:17,440
 Je crois qu'il fait 654 mètres de long et 122 mètres de haut.
 
-381
+384
 00:26:17,440 --> 00:26:18,440
 C'est impressionnant, hein ?
 
-382
+385
 00:26:20,440 --> 00:26:22,440
 J'espère que la rivière n'est pas trop profonde.
 
-383
+386
 00:26:22,440 --> 00:26:23,440
 Pourquoi ?
 
-384
+387
 00:26:23,440 --> 00:26:25,440
 Je sais pas nager, moi.
 
-385
+388
 00:26:25,440 --> 00:26:26,440
 Hein ?
 
-386
+389
 00:26:26,440 --> 00:26:28,440
 Mais il ne manquait plus que ça.
 
-387
+390
 00:26:28,440 --> 00:26:29,440
 Bon, écoute, tu fais comme moi.
 
-388
+391
 00:26:29,440 --> 00:26:31,440
 Serre tes pieds, serre tes mains, vas-y.
 
-389
+392
 00:26:32,440 --> 00:26:34,440
 Tension, flexion.
 
-390
+393
 00:26:34,440 --> 00:26:37,440
 Tu ramènes doucement, tu ramènes, tu souffles.
 
-391
+394
 00:26:37,440 --> 00:26:38,440
 Attention, tu te détends.
 
-392
+395
 00:26:38,440 --> 00:26:40,440
 Tu te détends, mais vite, vite.
 
-393
+396
 00:26:40,440 --> 00:26:43,440
 Et puis tu ramènes, tu ramènes, calmement, tu souffles.
 
-394
+397
 00:26:43,440 --> 00:26:46,440
 Hop, tension, attention, on arrive.
 
-395
+398
 00:26:46,440 --> 00:26:47,440
 Serre tes pieds.
 
-396
+399
 00:26:54,440 --> 00:26:56,440
 Jamais je ne resquillerai sur cette ligne.
 
-397
+400
 00:26:56,440 --> 00:26:58,440
 Je n'ai jamais été soumis à pareil traintement.
 
-398
+401
 00:26:59,440 --> 00:27:01,440
 Ça fait six ans que je voyage sans payer, monsieur.
 
-399
+402
 00:27:01,440 --> 00:27:02,440
 Six ans !
 
-400
+403
 00:27:02,440 --> 00:27:04,440
 Et c'est la première fois qu'on abandonne en rase campagne.
 
-401
+404
 00:27:04,440 --> 00:27:06,440
 Oh, mais c'est un comble !
 
-402
+405
 00:27:07,440 --> 00:27:08,440
 J'en oublie mon goûter.
 
-403
+406
 00:27:12,440 --> 00:27:13,440
 C'est où que nous nous trouvons?.
 
-404
+407
 00:27:15,440 --> 00:27:18,440
 Quand je pense que j'avais une si merveilleuse cachette,
 
-405
+408
 00:27:18,440 --> 00:27:20,440
 un cercueil de première classe,
 
-406
+409
 00:27:20,440 --> 00:27:24,440
 capitonné, insonorisé, moelleux,
 
-407
+410
 00:27:24,440 --> 00:27:26,440
 vous n'enporterez pas au paradis, monsieur.
 
-408
+411
 00:27:26,440 --> 00:27:27,440
 Oh, ma banane.
 
-409
+412
 00:27:40,440 --> 00:27:42,440
 Attention, aux branches basses.
 
-410
+413
 00:27:45,440 --> 00:27:46,440
 Vite !
 
-411
+414
 00:27:46,440 --> 00:27:48,440
 Il ne va pas y aller.
 
-412
+415
 00:27:48,440 --> 00:27:52,440
 Il va pas y aller.
 
-413
+416
 00:27:52,440 --> 00:27:53,440
 Vite !
 
-414
+417
 00:27:53,440 --> 00:27:55,440
 Il ne doit pas être loin.
 
-415
+418
 00:27:58,440 --> 00:28:00,440
 C'est quand je pense que je refuse de me lever le matin
 
-416
+419
 00:28:00,440 --> 00:28:02,440
 pour aller faire du jogging au bois de Boulogne.
 
-417
+420
 00:28:02,440 --> 00:28:04,440
 Je suis en train d'escalader des montagnes
 
-418
+421
 00:28:04,440 --> 00:28:06,440
 à sept heures du matin en Roumanie.
 
-419
+422
 00:28:09,440 --> 00:28:11,440
 Il a des complices.
 
-420
+423
 00:28:11,440 --> 00:28:12,440
 Bougez pas, je vais voir.
 
-421
+424
 00:28:12,440 --> 00:28:14,440
 En retard, à des rendez-vous.
 
-422
+425
 00:28:14,440 --> 00:28:16,440
 Alors tu vas nous faire le plaisir d'avancer.
 
-423
+426
 00:28:16,440 --> 00:28:18,440
 Mais c'est pourtant pas difficile ce que je te demande.
 
-424
+427
 00:28:19,440 --> 00:28:20,440
 Écoute, écoute.
 
-425
+428
 00:28:23,440 --> 00:28:25,440
 Oh, putain.
 
-426
+429
 00:28:25,440 --> 00:28:27,440
 Allez, viens avec moi.
 
-427
+430
 00:28:27,440 --> 00:28:29,440
 Avec moi, tu fais.
 
-428
+431
 00:28:35,440 --> 00:28:36,440
 C'est ça, c'est ça.
 
-429
+432
 00:28:36,440 --> 00:28:38,440
 Rapporte.
 
-430
+433
 00:28:38,440 --> 00:28:40,440
 À Longchamp, vous feriez un malheur.
 
-431
+434
 00:28:40,440 --> 00:28:41,440
 Prenez sa place.
 
-432
+435
 00:28:41,440 --> 00:28:42,440
 Ta gueule !
 
-433
+436
 00:28:44,440 --> 00:28:46,440
 Tu veux pas que je commette un meurtre ?
 
-434
+437
 00:28:46,440 --> 00:28:48,440
 Tu vois ce type là-bas ?
 
-435
+438
 00:28:48,440 --> 00:28:50,440
 Sa vie dépend de toi.
 
-436
+439
 00:28:50,440 --> 00:28:51,440
 Alors tu vas me faire plaisir.
 
-437
+440
 00:28:51,440 --> 00:28:53,440
 Tu vas avancer ta petite patoune.
 
-438
+441
 00:28:53,440 --> 00:28:54,440
 Hein ?
 
-439
+442
 00:28:54,440 --> 00:28:56,440
 Qui c'est qui va l'avancer sa patoune ?
 
-440
+443
 00:28:56,440 --> 00:28:58,440
 C'est le cheval, c'est le gentil cheval
 
-441
+444
 00:28:58,440 --> 00:29:00,440
 qui va l'avancer sa gentil cheval.
 
-442
+445
 00:29:02,440 --> 00:29:03,440
 Portez le donc.
 
-443
+446
 00:29:03,440 --> 00:29:05,440
 Je surveille le corbillard.
 
-444
+447
 00:29:06,440 --> 00:29:09,440
 Aïe, aïe, aïe, aïe, aïe.
 
-445
+448
 00:29:19,440 --> 00:29:21,440
 Bon, écoute, on va pas se fâcher tout de suite,
 
-446
+449
 00:29:21,440 --> 00:29:22,440
 on se connait à peine.
 
-447
+450
 00:29:22,440 --> 00:29:24,440
 C'est pourtant pas délicat ce que je te demande.
 
-448
+451
 00:29:24,440 --> 00:29:25,440
 J'aimerais simplement que
 
-449
+452
 00:29:25,440 --> 00:29:27,440
 en toute amitié, hein,
 
-450
+453
 00:29:27,440 --> 00:29:29,440
 en bon camarade ou...
 
-451
+454
 00:29:29,440 --> 00:29:31,440
 ou en bonne camarade, je sais pas,
 
-452
+455
 00:29:31,440 --> 00:29:33,440
 tu veuilles bien tirer ce petit corbillard
 
-453
+456
 00:29:33,440 --> 00:29:36,400
 C'est un petit corbillard qui n'est pas si lourd que ça.
 
-454
+457
 00:29:36,560 --> 00:29:39,360
 C'est pas une jeune fille fluette dans un cercueil tout léger
 
-455
+458
 00:29:39,520 --> 00:29:41,680
 qui va faire peur à un grand costaud comme toi.
 
-456
+459
 00:29:41,840 --> 00:29:45,360
 Il a mis Arianne dans le cercueil. Qu'est-ce que c'est que ce fou ?
 
-457
+460
 00:29:45,520 --> 00:29:46,920
 Bon, j'y vais.
 
-458
+461
 00:29:47,080 --> 00:29:49,880
 Ah, tu vois quand tu veux. Bon, allons-y.
 
-459
+462
 00:29:52,840 --> 00:29:54,280
 C'est toi qui as parlé, là ?
 
-460
+463
 00:29:54,440 --> 00:29:55,760
 Non, c'est moi.
 
-461
+464
 00:29:57,320 --> 00:29:59,600
 Souviens-toi du vase de Saint-Ouen.
 
-462
+465
 00:30:04,240 --> 00:30:05,240
 Ariane !
 
-463
+466
 00:30:06,400 --> 00:30:07,400
 Ariane !
 
-464
+467
 00:30:07,560 --> 00:30:11,440
 Vous ne trouvez pas qu'ils sont un peu bizarres, les taxis, dans le quartier ?
 
-465
+468
 00:30:14,720 --> 00:30:17,520
 On doit pouvoir la rattraper en coupant à travers la forêt.
 
-466
+469
 00:30:34,440 --> 00:30:35,440
 C'est profond !
 
-467
+470
 00:30:35,600 --> 00:30:37,600
 Je ne passe pas là. Moi non plus.
 
-468
+471
 00:30:37,760 --> 00:30:38,760
 Sauvés !
 
-469
+472
 00:31:33,440 --> 00:31:35,240
 La ligne d'horizon, là-haut.
 
-470
+473
 00:31:35,400 --> 00:31:36,400
 Vu la ligne d'horizon.
 
-471
+474
 00:31:36,560 --> 00:31:37,560
 Un arbre en boule.
 
-472
+475
 00:31:37,720 --> 00:31:38,720
 Vu l'arbre en boule.
 
-473
+476
 00:31:38,880 --> 00:31:41,400
 Trois doigts à gauche de l'arbre en boule.
 
-474
+477
 00:31:41,560 --> 00:31:42,560
 La fille blonde.
 
-475
+478
 00:31:42,720 --> 00:31:43,720
 Vu la fille blonde.
 
-476
+479
 00:31:43,880 --> 00:31:44,880
 C'est Ariane.
 
-477
+480
 00:31:45,040 --> 00:31:46,040
 Ariane !
 
-478
+481
 00:31:46,200 --> 00:31:47,200
 Phil !
 
-479
+482
 00:31:47,400 --> 00:31:49,040
 La ligne d'horizon, là-haut.
 
-480
+483
 00:31:49,200 --> 00:31:50,200
 Vu la ligne d'horizon.
 
-481
+484
 00:31:50,360 --> 00:31:51,360
 Un arbre en boule.
 
-482
+485
 00:31:51,520 --> 00:31:52,520
 Vu l'arbre en boule.
 
-483
+486
 00:31:53,480 --> 00:31:55,520
 Trois doigts à gauche de l'arbre en boule.
 
-484
+487
 00:31:55,680 --> 00:31:56,680
 La fille blonde.
 
-485
+488
 00:31:56,840 --> 00:31:57,840
 Vu la fille blonde.
 
-486
+489
 00:31:58,000 --> 00:31:59,000
 C'est Ariane.
 
-487
+490
 00:31:59,160 --> 00:32:00,160
 Ariane !
 
-488
+491
 00:32:00,320 --> 00:32:01,320
 Phil !
 
-489
+492
 00:32:18,200 --> 00:32:19,200
 Ne me touche pas !
 
-490
+493
 00:32:22,160 --> 00:32:23,160
 Allez !
 
-491
+494
 00:32:30,960 --> 00:32:31,960
 Dites...
 
-492
+495
 00:32:32,960 --> 00:32:33,960
 Vous avez...
 
-493
+496
 00:32:34,120 --> 00:32:35,800
 Vous... Vous les avez vus partir ?
 
-494
+497
 00:32:35,960 --> 00:32:36,960
 Oui, je les ai vus.
 
-495
+498
 00:32:37,120 --> 00:32:39,120
 Et dans quelle direction ils allaient ?
 
-496
+499
 00:32:40,760 --> 00:32:41,760
 Non, c'est sans blague.
 
-497
+500
 00:32:41,920 --> 00:32:42,920
 C'est très important.
 
-498
+501
 00:32:43,080 --> 00:32:45,080
 Il faut absolument que je les retrouve, vraiment.
 
-499
+502
 00:32:45,120 --> 00:32:46,120
 Pauvre con.
 
-500
+503
 00:32:46,280 --> 00:32:47,880
 C'est celui qui le dit, qu'il l'est.
 
-501
+504
 00:32:48,040 --> 00:32:49,040
 Mefies-toi, toi !
 
-502
+505
 00:32:49,200 --> 00:32:51,200
 T'as de la chance que j'ai pas le temps, vu.
 
-503
+506
 00:32:54,200 --> 00:32:55,200
 Non, là.
 
-504
+507
 00:32:56,360 --> 00:32:57,360
 Il pourrait pas m'aider, hein.
 
-505
+508
 00:32:57,520 --> 00:32:59,520
 Il pourrait pas m'aider, lui, hein.
 
-506
+509
 00:33:03,000 --> 00:33:04,000
 Merde, merde !
 
-507
+510
 00:33:06,160 --> 00:33:08,160
 Justement, on savait où on va.
 
-508
+511
 00:33:09,320 --> 00:33:12,320
 Eh, c'est un panneau indicateur, là-haut.
 
-509
+512
 00:33:13,120 --> 00:33:15,120
 Eh, c'est un panneau à indicateur, ça.
 
-510
+513
 00:33:20,560 --> 00:33:21,560
 Non, c'est pas vrai.
 
-511
+514
 00:33:21,720 --> 00:33:22,720
 Moi, je vais craquer !
 
-512
+515
 00:33:22,880 --> 00:33:23,880
 J'en ai marre !
 
-513
+516
 00:33:24,040 --> 00:33:26,040
 Mais c'est déjà une indication.
 
-514
+517
 00:33:26,200 --> 00:33:27,600
 Faut pas se décourager comme ça.
 
-515
+518
 00:33:27,760 --> 00:33:29,760
 Tiens, on peut faire un petit pique-nique.
 
-516
+519
 00:33:29,920 --> 00:33:31,920
 C'est ça. Moi, je vais faire du feu, OK ?
 
-517
+520
 00:33:32,080 --> 00:33:34,080
 Allez, viens, on va faire un pique-nique.
 
-518
+521
 00:33:42,400 --> 00:33:43,400
 Ah !
 
-519
+522
 00:33:43,560 --> 00:33:45,560
 Gazeuse ou non gazeuse ?
 
-520
+523
 00:33:45,720 --> 00:33:47,720
 Sans bulle, mon nonours !
 
-521
+524
 00:33:53,720 --> 00:33:55,720
 Une eau plate, une !
 
-522
+525
 00:33:58,320 --> 00:34:00,320
 Alors, ça se passe bien ?
 
-523
+526
 00:34:01,080 --> 00:34:02,080
 J'aimerais bien que tu me relaies,
 
-524
+527
 00:34:02,240 --> 00:34:04,240
 parce que je commence à fatiguer, hein.
 
-525
+528
 00:34:10,400 --> 00:34:11,400
 Eh !
 
-526
+529
 00:34:12,400 --> 00:34:15,400
 Ah, c'est malin, il va falloir que j'en fasse une autre.
 
-527
+530
 00:34:15,560 --> 00:34:16,560
 Oh, ben, laisse tomber, va.
 
-528
+531
 00:34:16,720 --> 00:34:19,720
 Tiens, il y a Jean qui nous a préparé un truc génial.
 
-529
+532
 00:34:26,160 --> 00:34:30,160
 Seigneur, je reconnais que je ne compte pas parmi les meilleurs,
 
-530
+533
 00:34:31,120 --> 00:34:34,120
 mais il me semble que là, vous me punissez très durement.
 
-531
+534
 00:34:36,000 --> 00:34:39,000
 Il ne manquerait plus qu'il y ait des loups dans cette forêt.
 
-532
+535
 00:34:40,080 --> 00:34:41,080
 Hein ?
 
-533
+536
 00:34:42,360 --> 00:34:43,360
 Oh !
 
-534
+537
 00:34:47,560 --> 00:34:49,560
 Des loups, des loups !
 
-535
+538
 00:34:50,720 --> 00:34:52,720
 C'est vachement bon, dis donc. Je ne comprends pas.
 
-536
+539
 00:34:52,880 --> 00:34:55,880
 Tu sais, je n'ai jamais vraiment aimé ça, les limaces.
 
-537
+540
 00:34:56,720 --> 00:34:57,720
 C'était dégueulasse !
 
-538
+541
 00:34:57,880 --> 00:34:58,880
 Ah, tu l'as dit !
 
-539
+542
 00:34:59,840 --> 00:35:00,840
 Et ça, qu'est-ce que c'est ?
 
-540
+543
 00:35:01,000 --> 00:35:03,000
 Ça, c'est des verres blancs.
 
-541
+544
 00:35:03,880 --> 00:35:05,880
 Quoi, ça porte bonheur, des verres blancs ?
 
-542
+545
 00:35:06,040 --> 00:35:08,040
 Ah, c'est écœurant, t'es...
 
-543
+546
 00:35:08,200 --> 00:35:09,200
 C'est écœurant, t'es répugnant.
 
-544
+547
 00:35:09,360 --> 00:35:10,360
 Répugnant ?
 
-545
+548
 00:35:10,400 --> 00:35:12,400
 Tu me fais marrer, toi. On n'est pas chez Fauchon, ici.
 
-546
+549
 00:35:12,560 --> 00:35:14,560
 Qu'est-ce que tu voudrais que je te fasse ?
 
-547
+550
 00:35:14,720 --> 00:35:16,720
 Un miracle, c'est ça ? Un miracle ?
 
-548
+551
 00:35:30,920 --> 00:35:31,920
 Merci.
 
-549
+552
 00:35:32,080 --> 00:35:33,080
 Il ne fallait pas.
 
-550
+553
 00:35:33,240 --> 00:35:36,240
 Oh, mais c'est juste quelques frites, hein.
 
-551
+554
 00:35:36,400 --> 00:35:38,400
 Mangez vite, ça va refroidir.
 
-552
+555
 00:35:40,400 --> 00:35:47,400
 ...
 
-553
+556
 00:35:47,560 --> 00:35:48,560
 Dieu est belge !
 
-554
+557
 00:35:51,440 --> 00:35:52,440
 C'est vraiment bon, hein.
 
-555
+558
 00:35:52,600 --> 00:35:55,600
 Elles sont légères, je me demande ce qu'il utilise comme huile.
 
-556
+559
 00:35:55,760 --> 00:35:58,760
 Vous n'avez peut-être pas apprécié ma cuisine tout à l'heure,
 
-557
+560
 00:35:58,920 --> 00:36:00,920
 mais là, je suis sûr de mon coup.
 
-558
+561
 00:36:01,080 --> 00:36:03,080
 Devinez ce que je vous ai dégoté pour le dessert.
 
-559
+562
 00:36:03,240 --> 00:36:05,240
 Des cervelles de crapaud Melba.
 
-560
+563
 00:36:05,400 --> 00:36:06,400
 Du miel !
 
-561
+564
 00:36:06,560 --> 00:36:07,560
 Du vrai miel !
 
-562
+565
 00:36:07,720 --> 00:36:09,720
 Regardez-moi ça !
 
-563
+566
 00:36:10,040 --> 00:36:11,040
 Hein ?
 
-564
+567
 00:36:12,200 --> 00:36:13,200
 Attention !
 
-565
+568
 00:36:19,360 --> 00:36:22,360
 Monsieur, on est égaré. Vous pouvez nous dire où on est ?
 
-566
+569
 00:36:22,520 --> 00:36:25,520
 Mais certainement, vous êtes dans la forêt du Pendu.
 
-567
+570
 00:36:25,680 --> 00:36:27,680
 Et quel est le village le plus proche ?
 
-568
+571
 00:36:27,840 --> 00:36:31,840
 C'est Bistritz, à une demi-heure de marche vers l'est.
 
-569
+572
 00:36:33,520 --> 00:36:35,520
 Merci beaucoup. Vous êtes très aimable, monsieur.
 
-570
+573
 00:36:35,680 --> 00:36:36,680
 Bonsoir.
 
-571
+574
 00:36:36,880 --> 00:36:37,880
 Oulah !
 
-572
+575
 00:36:38,640 --> 00:36:41,640
 Pourriez-vous me rendre un petit service ?
 
-573
+576
 00:36:41,800 --> 00:36:43,800
 Mais bien sûr, qu'est-ce qu'on peut faire pour vous ?
 
-574
+577
 00:36:43,960 --> 00:36:46,960
 Donner un léger coup de pied dans ce tabouret.
 
-575
+578
 00:36:47,120 --> 00:36:49,120
 Mais bien sûr, monsieur, avec plaisir.
 
-576
+579
 00:36:50,920 --> 00:36:51,920
 Biestritz !
 
-577
+580
 00:36:54,280 --> 00:36:57,280
 C'est une vraie joie de rendre service à des gens aussi aimables.
 
-578
+581
 00:36:57,440 --> 00:36:59,440
 Oui, c'est vrai. C'est tellement rare aujourd'hui.
 
-579
+582
 00:37:06,680 --> 00:37:07,680
 Oui.
 
-580
+583
 00:37:29,080 --> 00:37:31,080
 Pourquoi pas, Seigneur ? Pourquoi pas ?
 
-581
+584
 00:37:31,240 --> 00:37:34,240
 Vous pouvez peut-être faire casser la branche pendant que vous y êtes.
 
-582
+585
 00:37:36,680 --> 00:37:37,680
 D'accord.
 
-583
+586
 00:37:47,080 --> 00:37:49,080
 Il est pas tombé loin, celui-la ?
 
-584
+587
 00:37:49,240 --> 00:37:50,240
 Ouais, la chance.
 
-585
+588
 00:37:50,400 --> 00:37:52,400
 Quelle saloperie, ce briquet !
 
-586
+589
 00:37:53,560 --> 00:37:54,960
 C'est dangereux, ça.
 
-587
+590
 00:37:55,120 --> 00:37:57,120
 On ne va pas rester là toute la nuit.
 
-588
+591
 00:37:57,280 --> 00:37:58,640
 Je suis frigorifiée, moi.
 
-589
+592
 00:37:58,800 --> 00:37:59,800
 Fais-moi la courte échelle.
 
-590
+593
 00:37:59,960 --> 00:38:01,960
 Je regardais là-haut s'il y a autre chose que des arbres
 
-591
+594
 00:38:02,120 --> 00:38:03,120
 dans cette foutue forêt.
 
-592
+595
 00:38:03,280 --> 00:38:05,280
 Tu ferais bien d'arrêter de fumer,
 
-593
+596
 00:38:05,280 --> 00:38:07,280
 mais tu n'es pas encore dans tes sacs.
 
-594
+597
 00:38:13,280 --> 00:38:15,280
 J'vois un château, là-bas.
 
-595
+598
 00:38:23,680 --> 00:38:25,680
 Moi, je suis crevée. Moi, j'en peux plus.
 
-596
+599
 00:38:25,840 --> 00:38:27,840
 Non, mais t'inquiètes pas, mon bébé, on est arrivés.
 
-597
+600
 00:38:28,000 --> 00:38:30,000
 Dans un instant, tu seras à l'abri.
 
-598
+601
 00:38:30,160 --> 00:38:31,160
 Bien au sec.
 
-599
+602
 00:38:32,160 --> 00:38:34,160
 N'ayez pas peur.
 
-600
+603
 00:38:34,320 --> 00:38:36,320
 Nous ne vous voulons aucun mal.
 
-601
+604
 00:38:36,480 --> 00:38:38,480
 Nous sommes des voyageurs égarés.
 
-602
+605
 00:38:38,640 --> 00:38:40,640
 Nous voudrions simplement savoir si vous pouvez nous héberger
 
-603
+606
 00:38:40,800 --> 00:38:42,800
 quelques instants, le temps de reprendre des forces.
 
-604
+607
 00:38:42,960 --> 00:38:44,960
 Mais mon bébé, mais tais-toi !
 
-605
+608
 00:38:45,120 --> 00:38:48,120
 Qu'est-ce qui me dit que vous êtes des voyageurs égarés ?
 
-606
+609
 00:38:48,280 --> 00:38:52,280
 Nous n'avons que notre bonne foi pour nous, monsieur.
 
-607
+610
 00:38:52,440 --> 00:38:56,440
 Nous pourrions nous livrer à une petite expérience scientifique
 
-608
+611
 00:38:56,600 --> 00:38:59,600
 qui vous prouverait rapidement que nous disons la vérité.
 
-609
+612
 00:39:00,600 --> 00:39:02,600
 Demandez-nous où se trouve le nord.
 
-610
+613
 00:39:05,600 --> 00:39:07,600
 Où est le sud ?
 
-611
+614
 00:39:12,320 --> 00:39:14,320
 Vous voyez, nous ne pouvons pas répondre.
 
-612
+615
 00:39:15,520 --> 00:39:17,520
 Par là !
 
-613
+616
 00:39:20,960 --> 00:39:22,960
 Allez, suivez-moi.
 
-614
+617
 00:39:25,920 --> 00:39:27,920
 Monsieur le Comte attend une visite ce soir.
 
-615
+618
 00:39:29,920 --> 00:39:31,920
 Je vais vous conduire au commun.
 
-616
+619
 00:39:32,080 --> 00:39:34,080
 Vous pourrez vous réchauffer.
 
-617
+620
 00:39:38,680 --> 00:39:42,680
 Monsieur ! Monsieur ! Monsieur le Comte !
 
-618
+621
 00:39:43,280 --> 00:39:45,280
 Monsieur le Comte !
 
-619
+622
 00:39:45,960 --> 00:39:47,960
 Maître, la comtesse !
 
-620
+623
 00:39:49,000 --> 00:39:50,320
 Quoi ? La comtesse !
 
-621
+624
 00:39:50,480 --> 00:39:51,600
 Tais-toi !
 
-622
+625
 00:39:51,760 --> 00:39:53,760
 Ratin !
 
-623
+626
 00:39:56,960 --> 00:39:58,400
 C'est fabuleux.
 
-624
+627
 00:39:58,560 --> 00:40:00,560
 Extraordinaire.
 
-625
+628
 00:40:00,720 --> 00:40:02,720
 Fantastique.
 
-626
+629
 00:40:05,080 --> 00:40:10,080
 Vous n'imaginez pas, mademoiselle, à quel point votre présence est sublime.
 
-627
+630
 00:40:10,240 --> 00:40:12,240
 Penétrant ici,
 
-628
+631
 00:40:12,400 --> 00:40:16,400
 vous faites descendre l'éblouissante lumière et la gloire
 
-629
+632
 00:40:16,560 --> 00:40:19,560
 sur ma pauvre existence.
 
-630
+633
 00:40:19,720 --> 00:40:21,720
 Je ne suis rien d'autre
 
-631
+634
 00:40:23,400 --> 00:40:25,400
 que votre humble serviteur.
 
-632
+635
 00:40:26,400 --> 00:40:28,400
 Et moi, je suis Phil, son fiancé.
 
-633
+636
 00:40:28,560 --> 00:40:29,560
 Enchanté.
 
-634
+637
 00:40:29,720 --> 00:40:31,720
 Son fiancé.
 
-635
+638
 00:40:31,880 --> 00:40:33,880
 Et voici Jean et Gérard, deux amis.
 
-636
+639
 00:40:34,040 --> 00:40:37,040
 On va pas vous déranger plus longtemps, on est juste entré pour sécher un peu.
 
-637
+640
 00:40:37,200 --> 00:40:39,200
 Maintenant, c'est fait, on va reprendre la route doucement.
 
-638
+641
 00:40:39,360 --> 00:40:41,360
 Vous avez été très gentil, merci, au revoir.
 
-639
+642
 00:40:41,520 --> 00:40:43,520
 Allez, viens, je te dis.
 
-640
+643
 00:40:43,680 --> 00:40:45,680
 Qu'est-ce qui te prend ?
 
-641
+644
 00:40:45,840 --> 00:40:47,840
 Vous n'êtes pas raisonnable, jeune homme.
 
-642
+645
 00:40:48,000 --> 00:40:50,000
 C'est évident, mademoiselle, elle est complètement épuisée.
 
-643
+646
 00:40:50,160 --> 00:40:54,160
 C'est la folie pour amener elle à la pluie, le vent, le froid.
 
-644
+647
 00:40:54,200 --> 00:40:56,200
 Le froid, oui, le froid.
 
-645
+648
 00:40:56,360 --> 00:41:00,360
 Monsieur, je vous supplie, acceptez mon invitation.
 
-646
+649
 00:41:01,520 --> 00:41:04,520
 Tu sais, Phil, monsieur a peut-être raison.
 
-647
+650
 00:41:04,680 --> 00:41:06,680
 Non, bien sûr, c'est vrai qu'on est sec,
 
-648
+651
 00:41:06,840 --> 00:41:08,840
 mais si on était encore plus sec que ça,
 
-649
+652
 00:41:09,000 --> 00:41:11,000
 ça serait pas plus mal pour continuer notre balade en forêt, non ?
 
-650
+653
 00:41:11,160 --> 00:41:13,160
 Le village le plus près de nous,
 
-651
+654
 00:41:13,320 --> 00:41:17,320
 ça c'est à 30, 40 km d'ici, en moins.
 
-652
+655
 00:41:17,480 --> 00:41:21,480
 Je vous en prie, restez.
 
-653
+656
 00:41:22,480 --> 00:41:24,480
 OK, on reste.
 
-654
+657
 00:41:24,640 --> 00:41:26,640
 Merci.
 
-655
+658
 00:41:28,320 --> 00:41:30,320
 Igor !
 
-656
+659
 00:41:30,480 --> 00:41:34,480
 Igor, conduis, mademoiselle et ces messieurs,
 
-657
+660
 00:41:34,640 --> 00:41:36,640
 dans les chambres des amis.
 
-658
+661
 00:41:41,320 --> 00:41:43,320
 Pardon ?
 
-659
+662
 00:41:44,720 --> 00:41:46,720
 La chambre des célibataires.
 
-660
+663
 00:41:46,880 --> 00:41:50,880
 Ici, vous pouvez vous amuser et rire autant que vous voulez.
 
-661
+664
 00:41:50,920 --> 00:41:54,920
 Autant que vous voudrez, les murs sont très épais.
 
-662
+665
 00:41:55,080 --> 00:41:57,080
 C'est ravissant.
 
-663
+666
 00:41:57,240 --> 00:41:59,240
 Et puis c'est gai, hein ?
 
-664
+667
 00:41:59,400 --> 00:42:01,400
 Je comprends qu'elle vous plaise, c'est ma préférée.
 
-665
+668
 00:42:01,560 --> 00:42:03,560
 Ah bon ?
 
-666
+669
 00:42:03,720 --> 00:42:05,720
 À vous, pardon.
 
-667
+670
 00:42:07,880 --> 00:42:09,880
 À côté pratique, c'est fonctionnel, oui.
 
-668
+671
 00:42:14,720 --> 00:42:16,720
 Si vous ne voyez pas ça, vous vous en jalous.
 
-669
+672
 00:42:16,880 --> 00:42:18,880
 C'est sûr.
 
-670
+673
 00:42:18,880 --> 00:42:20,880
 Je suis tellement fatiguée que je m'estimerai heureuse
 
-671
+674
 00:42:21,040 --> 00:42:23,040
 même dans un caveau au père Lachaise.
 
-672
+675
 00:42:23,200 --> 00:42:26,000
 Je vois que madame a du goût.
 
-673
+676
 00:42:28,000 --> 00:42:30,000
 Bien, je vais chercher des vêtements secs.
 
-674
+677
 00:42:30,160 --> 00:42:32,160
 Lepope.
 
-675
+678
 00:42:32,320 --> 00:42:35,320
 Je me demande qu'est-ce qu'il fabrique, celui-là.
 
-676
+679
 00:42:35,480 --> 00:42:39,480
 Enfin, la seule importance, c'est qu'elle, elle est la.
 
-677
+680
 00:42:40,640 --> 00:42:42,640
 Vous l'avez vu, Igor ?
 
-678
+681
 00:42:42,800 --> 00:42:44,800
 Comme elle ressemble à maman.
 
-679
+682
 00:42:45,640 --> 00:42:47,640
 Remarque, il y a l'essentiel.
 
-680
+683
 00:42:49,640 --> 00:42:51,640
 Tiens bon, tiens bon, tiens bon.
 
-681
+684
 00:42:53,640 --> 00:42:55,640
 Tiens bon, tiens bon, ça fait pas mal.
 
-682
+685
 00:42:55,800 --> 00:43:00,800
 La robe noire de ma mère, vous l'avez donné à la jeune fille ?
 
-683
+686
 00:43:00,960 --> 00:43:02,960
 Oui, maître.
 
-684
+687
 00:43:03,120 --> 00:43:05,120
 Bien, c'est une belle robe.
 
-685
+688
 00:43:05,280 --> 00:43:07,280
 Je fais tout comme vous avez demandé.
 
-686
+689
 00:43:07,440 --> 00:43:09,440
 Merci.
 
-687
+690
 00:43:09,600 --> 00:43:11,600
 Igor.
 
-688
+691
 00:43:13,760 --> 00:43:15,760
 Écoute, c'est vraiment étrange, hein ?
 
-689
+692
 00:43:15,920 --> 00:43:17,920
 On dirait que cette robe a été faite pour moi.
 
-690
+693
 00:43:17,960 --> 00:43:19,960
 C'est comme pour moi.
 
-691
+694
 00:43:20,120 --> 00:43:25,120
 Mais tu trouves pas que le pantalon, il est un peu court ?
 
-692
+695
 00:43:25,280 --> 00:43:27,280
 Dis donc, tu te rappelles le mec qui a enlevé Ariane
 
-693
+696
 00:43:27,440 --> 00:43:29,440
 quand il est venu au stand ?
 
-694
+697
 00:43:29,600 --> 00:43:31,600
 Il avait parlé d'un noble en Transylvanie ?
 
-695
+698
 00:43:31,760 --> 00:43:33,760
 Oui.
 
-696
+699
 00:43:33,920 --> 00:43:35,920
 Et bien, on est en Transylvanie, et chez un noble
 
-697
+700
 00:43:36,080 --> 00:43:38,080
 Oui.
 
-698
+701
 00:43:38,240 --> 00:43:41,240
 Non, tu crois pas qu'il nous aurait fallu un sacré coup de bol
 
-699
+702
 00:43:41,400 --> 00:43:43,400
 pour tomber spécialement sur lui ce soir ?
 
-700
+703
 00:43:43,560 --> 00:43:46,560
 Pense à autre chose, tu vas trop au ciné.
 
-701
+704
 00:43:47,360 --> 00:43:49,360
 Tu as raison, je descends.
 
-702
+705
 00:43:51,880 --> 00:43:53,880
 Je suis prêt, je me coiffe.
 
-703
+706
 00:44:11,200 --> 00:44:16,200
 Dis-moi, qu'est-ce qui est devenu, cet individu dangereux ?
 
-704
+707
 00:44:16,200 --> 00:44:18,200
 La dernière fois que je l'ai vu,
 
-705
+708
 00:44:18,360 --> 00:44:20,360
 il gisait par terre assomé par mon amie Phil.
 
-706
+709
 00:44:22,520 --> 00:44:25,520
 Entrez, entrez, mes amis, je vous en prie.
 
-707
+710
 00:44:29,720 --> 00:44:31,720
 C'est marrant, ça.
 
-708
+711
 00:44:31,880 --> 00:44:33,880
 On avait exactement les mêmes au stand.
 
-709
+712
 00:44:34,040 --> 00:44:36,040
 Tu te rappelles ?
 
-710
+713
 00:44:36,200 --> 00:44:39,200
 Un lot de 12, dis donc, 250 balles pièces.
 
-711
+714
 00:44:39,360 --> 00:44:42,360
 Si je me rappelle, on a mis un temps fou à s'en débarrasser.
 
-712
+715
 00:44:42,520 --> 00:44:44,520
 C'est vrai, on les aimait beaucoup,
 
-713
+716
 00:44:44,520 --> 00:44:47,520
 et on a mis longtemps à se décider à les vendre.
 
-714
+717
 00:44:47,680 --> 00:44:50,680
 Je suis très content que je sois entouré de connaisseurs tellement fins.
 
-715
+718
 00:44:50,840 --> 00:44:53,840
 J'espère que vous aimez le champagne.
 
-716
+719
 00:44:54,000 --> 00:44:58,000
 Parce que j'ai demandé à Igor de préparer cette bouteille pour vous.
 
-717
+720
 00:44:58,160 --> 00:45:00,160
 C'est un cuvé spécial.
 
-718
+721
 00:45:00,320 --> 00:45:03,320
 Elle vient directement...
 
-719
+722
 00:45:03,480 --> 00:45:05,480
 de Madrid.
 
-720
+723
 00:45:05,520 --> 00:45:07,520
 Merci.
 
-721
+724
 00:45:30,440 --> 00:45:33,440
 Je lève mon verre à votre présence, aussi agréable,
 
-722
+725
 00:45:34,200 --> 00:45:38,200
 qu'inattendu, au château de Bistritz.
 
-723
+726
 00:45:38,360 --> 00:45:41,360
 Je lève le mien à votre hospitalité, monsieur.
 
-724
+727
 00:45:41,520 --> 00:45:43,520
 Quand je pense qu'il y a une heure à peine,
 
-725
+728
 00:45:43,680 --> 00:45:46,680
 nous étions encore en train d'errer dans la forêt.
 
-726
+729
 00:45:46,840 --> 00:45:49,840
 Oui, le destin fait parfois bien les choses.
 
-727
+730
 00:45:50,000 --> 00:45:53,000
 Ce soir, il ne pouvait pas mieux guider vos pas.
 
-728
+731
 00:45:53,160 --> 00:45:56,160
 Ce champagne est délicieux.
 
-729
+732
 00:45:56,320 --> 00:45:58,320
 C'est meilleur que le mousseux.
 
-730
+733
 00:45:58,480 --> 00:46:00,480
 Je suis très content de vous voir.
 
-731
+734
 00:46:00,560 --> 00:46:03,560
 Que vous êtes un connaisseur de vin.
 
-732
+735
 00:46:03,720 --> 00:46:06,720
 Vous savez, dans la brocante. Il faut s'intéresser à tout.
 
-733
+736
 00:46:06,880 --> 00:46:09,880
 Igor, à l'office.
 
-734
+737
 00:46:16,520 --> 00:46:19,520
 Igor est un garçon très charmant, très fidèle à moi,
 
-735
+738
 00:46:19,680 --> 00:46:22,680
 mais il a un comportement très étrange d'heure en heure.
 
-736
+739
 00:46:22,840 --> 00:46:25,840
 J'espère qu'il ne vous a pas trop ennuyé, monsieur.
 
-737
+740
 00:46:26,000 --> 00:46:28,000
 Non, il ne m'a pas ennuyé.
 
-738
+741
 00:46:28,080 --> 00:46:31,080
 Il est un peu joueur, mais il est gentil comme tout.
 
-739
+742
 00:46:31,240 --> 00:46:34,240
 Tout à l'heure, il ne m'arrêtait pas de me lecher la main.
 
-740
+743
 00:46:34,400 --> 00:46:35,840
 Je l'ai vu.
 
-741
+744
 00:46:36,000 --> 00:46:39,000
 Habituellement, il fait ça seulement à moi.
 
-742
+745
 00:46:39,160 --> 00:46:41,160
 Maintenant, on sera deux.
 
-743
+746
 00:46:41,320 --> 00:46:43,320
 Monsieur le comte est servi.
 
-744
+747
 00:46:43,480 --> 00:46:44,480
 Merci.
 
-745
+748
 00:46:44,640 --> 00:46:47,640
 Chère mademoiselle, si vous voulez prendre la place là,
 
-746
+749
 00:46:47,800 --> 00:46:50,800
 à face de moi, vous, monsieur le fiancé,
 
-747
+750
 00:46:50,960 --> 00:46:53,960
 si vous voulez prendre la place d'honneur, à droite.
 
-748
+751
 00:46:54,120 --> 00:46:56,120
 C'est là. La gauche, à droite, c'est là.
 
-749
+752
 00:46:56,400 --> 00:47:00,400
 Vous, les autres, asseyez-vous comme vous voulez, où que vous voulez.
 
-750
+753
 00:47:00,560 --> 00:47:03,560
 Votre ami, chère mademoiselle, m'a raconté votre histoire,
 
-751
+754
 00:47:03,720 --> 00:47:06,720
 l'incroyable histoire de votre kidnapping.
 
-752
+755
 00:47:06,880 --> 00:47:09,880
 Demain, je téléphone à mon ami, le chef de police de Bistritz.
 
-753
+756
 00:47:10,040 --> 00:47:13,040
 Ce soir, je ne peux pas parce que mon téléphone est en dérangement,
 
-754
+757
 00:47:13,200 --> 00:47:15,200
 mais demain, je l'appelle.
 
-755
+758
 00:47:15,360 --> 00:47:17,360
 Je vous promets, vous le faites n'importe quoi
 
-756
+759
 00:47:17,520 --> 00:47:19,520
 pour éliminer cet individu dangereux.
 
-757
+760
 00:47:19,680 --> 00:47:21,680
 Je vous remercie, c'est très aimable à vous.
 
-758
+761
 00:47:21,840 --> 00:47:23,840
 Mais je vous en prie, ça ne sert à rien.
 
-759
+762
 00:47:23,880 --> 00:47:27,880
 C'est un grand, grand ami à moi, le chef de police de Bistritz.
 
-760
+763
 00:47:28,040 --> 00:47:32,040
 Vous ne pensez pas que c'est l'orage qui a coupé votre ligne ?
 
-761
+764
 00:47:32,200 --> 00:47:33,200
 Quelle ligne ?
 
-762
+765
 00:47:33,360 --> 00:47:34,360
 Votre téléphone.
 
-763
+766
 00:47:34,520 --> 00:47:38,520
 Non, j'ai de problèmes tout le temps avec ma ligne téléphonique.
 
-764
+767
 00:47:38,680 --> 00:47:40,680
 C'est comme à Paris.
 
-765
+768
 00:47:42,840 --> 00:47:44,840
 Je vois que vous êtes très intrigués.
 
-766
+769
 00:47:45,000 --> 00:47:48,000
 Un bien, c'est notre plat traditionnel.
 
-767
+770
 00:47:48,160 --> 00:47:50,160
 Schiapitz.
 
-768
+771
 00:47:54,200 --> 00:47:58,200
 Vous voyez, cette petite saucisse s'appelle Mikitz.
 
-769
+772
 00:47:58,360 --> 00:48:01,360
 Mais faites attention, c'est très, très, très fort.
 
-770
+773
 00:48:01,520 --> 00:48:03,520
 Mais si vous aimez votre plat plus fort que ça,
 
-771
+774
 00:48:03,680 --> 00:48:06,680
 vous utilisez cette petite sauce rouge.
 
-772
+775
 00:48:08,840 --> 00:48:10,840
 Kubitch.
 
-773
+776
 00:48:11,440 --> 00:48:13,440
 Mais faites attention.
 
-774
+777
 00:48:13,600 --> 00:48:15,600
 C'est très, très, très épicé.
 
-775
+778
 00:48:17,560 --> 00:48:19,560
 Ça ressemble beaucoup au couscous.
 
-776
+779
 00:48:19,720 --> 00:48:21,720
 Ça, ça n'a rien à faire avec le couscous.
 
-777
+780
 00:48:22,520 --> 00:48:26,520
 Si vous aimez le couscous, je le fais un couscous pour vous demain.
 
-778
+781
 00:48:29,560 --> 00:48:31,560
 Igor, à l'office.
 
-779
+782
 00:48:33,800 --> 00:48:35,800
 À l'office, Igor.
 
-780
+783
 00:48:41,360 --> 00:48:43,360
 Pas à l'office, Igor.
 
-781
+784
 00:48:48,000 --> 00:48:51,000
 Mademoiselle, vous avez froid ?
 
-782
+785
 00:48:52,640 --> 00:48:54,640
 Vous frissonez ?
 
-783
+786
 00:48:54,800 --> 00:48:56,800
 Non, c'est juste un peu de fatigue.
 
-784
+787
 00:48:56,960 --> 00:48:58,960
 Ne vous inquiétez pas.
 
-785
+788
 00:48:59,120 --> 00:49:01,120
 Igor,
 
-786
+789
 00:49:01,280 --> 00:49:03,280
 ranime la flamme, vite.
 
-787
+790
 00:49:03,440 --> 00:49:07,440
 Je pense que c'est la drogue qui doit encore faire des effets.
 
-788
+791
 00:49:13,480 --> 00:49:15,480
 La vieille coutume de Bistritz.
 
-789
+792
 00:49:15,640 --> 00:49:17,640
 Igor, il est très romantique.
 
-790
+793
 00:49:17,800 --> 00:49:19,800
 Il ne veut pas abandonner ça.
 
-791
+794
 00:49:19,800 --> 00:49:23,800
 Moi-même, je suis très attaché à une coutume folklorique.
 
-792
+795
 00:49:33,400 --> 00:49:35,400
 Ça va pas, mon bébé ?
 
-793
+796
 00:49:35,560 --> 00:49:37,560
 Si.
 
-794
+797
 00:49:37,720 --> 00:49:39,720
 C'est simplement une petite torpeur.
 
-795
+798
 00:49:39,880 --> 00:49:41,880
 Elle dort.
 
-796
+799
 00:49:42,040 --> 00:49:44,040
 Elle avait raison.
 
-797
+800
 00:49:44,200 --> 00:49:47,200
 C'est sûrement la drogue qui continue à faire son effet.
 
-798
+801
 00:49:47,360 --> 00:49:49,360
 Qu'est-ce qui se passe ?
 
-799
+802
 00:49:49,400 --> 00:49:52,400
 Il y a quelqu'un qui fait quelque chose.
 
-800
+803
 00:49:52,560 --> 00:49:54,560
 Reveille-toi.
 
-801
+804
 00:49:54,720 --> 00:49:56,720
 Mademoiselle, c'est votre amie.
 
-802
+805
 00:49:56,880 --> 00:49:58,880
 Le comte. Coucou !
 
-803
+806
 00:49:59,040 --> 00:50:01,040
 Elle dort.
 
-804
+807
 00:50:01,200 --> 00:50:03,200
 C'est pas possible de faire ça. Pas à moi.
 
-805
+808
 00:50:03,360 --> 00:50:05,360
 Reveille-toi.
 
-806
+809
 00:50:05,520 --> 00:50:07,520
 Ne vous énervez pas comme ça.
 
-807
+810
 00:50:07,680 --> 00:50:10,680
 Si c'est parce que votre couscouslik est en train de refroidir,
 
-808
+811
 00:50:10,840 --> 00:50:12,840
 on va vous le mettre au chaud.
 
-809
+812
 00:50:13,000 --> 00:50:15,000
 Excusez-moi.
 
-810
+813
 00:50:15,160 --> 00:50:17,160
 C'est l'orage.
 
-811
+814
 00:50:17,200 --> 00:50:19,200
 C'était mes excuses.
 
-812
+815
 00:50:19,360 --> 00:50:21,360
 Non, non. Ça va, ça va.
 
-813
+816
 00:50:21,520 --> 00:50:23,520
 Je vais la coucher tout de suite.
 
-814
+817
 00:50:23,680 --> 00:50:25,680
 Serre un peu de main.
 
-815
+818
 00:50:25,840 --> 00:50:27,840
 Igor !
 
-816
+819
 00:50:28,000 --> 00:50:30,000
 Conduis M. à sa chambre.
 
-817
+820
 00:50:30,160 --> 00:50:32,160
 S'il a besoin d'aide, fait le nécessaire.
 
-818
+821
 00:50:32,320 --> 00:50:34,320
 Permettez.
 
-819
+822
 00:50:47,560 --> 00:50:49,560
 Ça va ? Je peux la porter tout seul ?
 
-820
+823
 00:50:49,720 --> 00:50:51,720
 Le dessert, c'est en bas.
 
-821
+824
 00:50:51,880 --> 00:50:53,880
 Tu peux me passer le poivre, s'il te plaît ?
 
-822
+825
 00:50:54,040 --> 00:50:56,040
 Le poivre ? Oui.
 
-823
+826
 00:51:01,160 --> 00:51:03,160
 Tu me le rendras. ?
 
-824
+827
 00:51:03,320 --> 00:51:05,320
 Oui.
 
-825
+828
 00:51:05,480 --> 00:51:07,480
 Monsieur, on a toujours pas besoin de moi.
 
-826
+829
 00:51:07,640 --> 00:51:09,640
 Je vous ai dit que je pouvais me débrouiller tout seul.
 
-827
+830
 00:51:09,800 --> 00:51:11,800
 Comme monsieur voudra.
 
-828
+831
 00:51:47,200 --> 00:51:49,200
 Vous avez besoin d'aide ?
 
-829
+832
 00:51:49,360 --> 00:51:51,360
 Vous avez déjà dit que j'avais besoin de rien ?
 
-830
+833
 00:52:02,080 --> 00:52:04,080
 C'est grand ici.
 
-831
+834
 00:52:05,240 --> 00:52:07,240
 Ça doit être dur à chauffer.
 
-832
+835
 00:52:08,960 --> 00:52:10,960
 Oui, surtout.
 
-833
+836
 00:52:11,120 --> 00:52:13,120
 Surtout avec le prix du mazoute aujourd'hui.
 
-834
+837
 00:52:13,280 --> 00:52:15,280
 Moi, je chauffe au bois.
 
-835
+838
 00:52:18,160 --> 00:52:20,160
 C'est bien le bois aussi ?
 
-836
+839
 00:52:22,320 --> 00:52:24,320
 Oui, c'est bien aussi le bois.
 
-837
+840
 00:52:24,480 --> 00:52:26,480
 C'est un choix, quoi.
 
-838
+841
 00:52:44,160 --> 00:52:46,160
 Tu veux du pain ?
 
-839
+842
 00:52:48,160 --> 00:52:50,160
 Comment ?
 
-840
+843
 00:52:50,320 --> 00:52:52,320
 Je te demande si tu veux du pain.
 
-841
+844
 00:52:54,000 --> 00:52:56,000
 Du pain ? Comment ?
 
-842
+845
 00:52:56,160 --> 00:52:58,160
 Je dis du pain ?
 
-843
+846
 00:52:58,320 --> 00:53:00,320
 Non, merci, ça va. Pas de pain.
 
-844
+847
 00:53:14,880 --> 00:53:16,880
 T'as fait vite, dis donc.
 
-845
+848
 00:53:18,160 --> 00:53:20,160
 C'est vrai, on a pas vu le temps passer.
 
-846
+849
 00:53:22,320 --> 00:53:24,320
 Tout va bien ?
 
-847
+850
 00:53:24,480 --> 00:53:26,480
 Très bien, elle est couchée.
 
-848
+851
 00:53:26,640 --> 00:53:28,640
 Elle dort toujours.
 
-849
+852
 00:53:28,800 --> 00:53:30,800
 C'est parfait.
 
-850
+853
 00:53:30,960 --> 00:53:32,960
 On va pouvoir reprendre cet excellent repas.
 
-851
+854
 00:53:33,120 --> 00:53:35,120
 Non, fais pas ça.
 
-852
+855
 00:53:35,280 --> 00:53:37,280
 Autant le shiapitz.
 
-853
+856
 00:53:37,440 --> 00:53:39,440
 C'est très bon quand il est chaud.
 
-854
+857
 00:53:39,600 --> 00:53:41,600
 C'est inmangeable.
 
-855
+858
 00:53:41,760 --> 00:53:43,760
 Quand il est froid, s'il vous plaît,
 
-856
+859
 00:53:43,920 --> 00:53:45,920
 vous allez vous dormir.
 
-857
+860
 00:53:45,960 --> 00:53:47,960
 Je vous souhaite une bonne nuit.
 
-858
+861
 00:53:48,120 --> 00:53:50,120
 Voilà.
 
-859
+862
 00:54:08,280 --> 00:54:10,280
 Qu'est-ce que tu fous ?
 
-860
+863
 00:54:10,440 --> 00:54:12,440
 J'ai la dalle. C'est pour manger dans ma chambre.
 
-861
+864
 00:54:12,600 --> 00:54:14,600
 Ah bon ?
 
-862
+865
 00:54:15,920 --> 00:54:17,920
 C'est pour manger.
 
-863
+866
 00:54:30,080 --> 00:54:32,080
 C'est pour vous.
 
-864
+867
 00:54:32,240 --> 00:54:34,240
 Surveille-moi bien, ces trois imbéciles.
 
-865
+868
 00:54:45,920 --> 00:54:47,920
 Il aurait pu faire un effort sur la litrie.
 
-866
+869
 00:54:48,080 --> 00:54:50,080
 Heureusement qu'il n'y a personne au-dessus.
 
-867
+870
 00:54:50,240 --> 00:54:52,240
 Il me manquerait plus que ça.
 
-868
+871
 00:54:52,400 --> 00:54:54,400
 Allez, bonne nuit.
 
-869
+872
 00:55:46,480 --> 00:55:48,480
 On s'en va.
 
-870
+873
 00:56:09,560 --> 00:56:11,560
 Mais...
 
-871
+874
 00:56:12,480 --> 00:56:14,480
 Ariane !
 
-872
+875
 00:56:15,920 --> 00:56:25,920
 Réveillez-vous, je vous dis qu'Ariane a disparu, c'est le comte qui l'a enlevé, je l'ai vu.
 
-873
+876
 00:56:25,920 --> 00:56:26,920
 Quoi ?
 
-874
+877
 00:56:26,920 --> 00:56:27,920
 Ben oui, venez.
 
-875
+878
 00:56:27,920 --> 00:56:29,920
 Mais qu'est-ce qu'il lui trouve ?
 
-876
+879
 00:56:29,920 --> 00:56:31,920
 Il est passé par là.
 
-877
+880
 00:56:32,920 --> 00:56:34,920
 Ben oui, il est passé par là.
 
-878
+881
 00:56:37,920 --> 00:56:38,920
 Il est passé par là.
 
-879
+882
 00:56:38,920 --> 00:56:39,920
 Ben oui.
 
-880
+883
 00:56:39,920 --> 00:56:42,920
 Et bien s'il est passé par là, il va revenir par là.
 
-881
+884
 00:56:42,920 --> 00:56:43,920
 C'est tout.
 
-882
+885
 00:56:43,920 --> 00:56:44,920
 Et pourquoi ?
 
-883
+886
 00:56:44,920 --> 00:56:47,920
 Parce que regarde, regarde, sur mon regard, regarde, regarde.
 
-884
+887
 00:56:48,920 --> 00:56:49,920
 T'as vu, regarde.
 
-885
+888
 00:56:49,920 --> 00:56:51,920
 Ça communique.
 
-886
+889
 00:56:53,920 --> 00:56:54,920
 Hé !
 
-887
+890
 00:56:56,920 --> 00:56:57,920
 Hé, on est enfermés !
 
-888
+891
 00:56:58,920 --> 00:56:59,920
 Hé, ouvrez !
 
-889
+892
 00:56:59,920 --> 00:57:00,920
 Tamez en effet !
 
-890
+893
 00:57:00,920 --> 00:57:01,920
 Ouvrez !
 
-891
+894
 00:57:01,920 --> 00:57:02,920
 À toi !
 
-892
+895
 00:57:03,920 --> 00:57:04,920
 Oui, toi !
 
-893
+896
 00:57:04,920 --> 00:57:05,920
 Et c'est ça qui l'a emporté !
 
-894
+897
 00:57:05,920 --> 00:57:21,920
 Et bien, voilà, là voilà, vieille sorcière, je l'ai emmené là pour vous montrer mon triomphe, vieille sorcière.
 
-895
+898
 00:57:26,920 --> 00:57:28,920
 Ah, Igor, Igor.
 
-896
+899
 00:57:28,920 --> 00:57:34,920
 Oui, mais je suis désolé, maître, mais j'ai été pressé de vous dire que les trois jeunes gens, là, ils sont enfermés dans leur chambre.
 
-897
+900
 00:57:34,920 --> 00:57:38,920
 Et qu'eux, ils ne sont pas prêts de pouvoir en sortir parce que...
 
-898
+901
 00:57:39,920 --> 00:57:40,920
 Super !
 
-899
+902
 00:57:43,920 --> 00:57:44,920
 Voilà, voilà !
 
-900
+903
 00:57:51,920 --> 00:57:52,920
 Non, ne fais pas ça.
 
-901
+904
 00:57:53,920 --> 00:57:55,920
 Ne fais pas ça.
 
-902
+905
 00:57:56,920 --> 00:57:57,920
 Ne fais pas ça.
 
-903
+906
 00:58:01,920 --> 00:58:06,920
 J'ai attendu quelques trente années pour cette minute merveilleuse.
 
-904
+907
 00:58:07,920 --> 00:58:16,920
 Je vais balayer d'un seul coup toutes les hontes, l'humiliation que je dois à cette créature indigne d'être ma mère !
 
-905
+908
 00:58:16,920 --> 00:58:17,920
 Oh, je la sens, là.
 
-906
+909
 00:58:17,920 --> 00:58:18,920
 Oui ?
 
-907
+910
 00:58:18,920 --> 00:58:19,920
 Oh, je le...
 
-908
+911
 00:58:19,920 --> 00:58:20,920
 Oui ?
 
-909
+912
 00:58:22,920 --> 00:58:23,920
 Je...
 
-910
+913
 00:58:24,920 --> 00:58:25,920
 Je le fous, toi.
 
-911
+914
 00:58:29,920 --> 00:58:31,920
 Laissez-moi ça, là.
 
-912
+915
 00:58:31,920 --> 00:58:33,920
 Et essayez de réveiller cette fille, là.
 
-913
+916
 00:58:38,920 --> 00:58:39,920
 Non, pas comme ça.
 
-914
+917
 00:58:42,920 --> 00:58:43,920
 Voilà, comme ça.
 
-915
+918
 00:58:48,920 --> 00:58:50,920
 Maître, je crois qu'elle se réveille.
 
-916
+919
 00:58:50,920 --> 00:58:51,920
 Laissez-nous.
 
-917
+920
 00:58:51,920 --> 00:58:52,920
 Laissez-nous !
 
-918
+921
 00:58:52,920 --> 00:58:53,920
 Allez !
 
-919
+922
 00:58:54,920 --> 00:58:55,920
 Allez !
 
-920
+923
 00:58:59,920 --> 00:59:00,920
 Vous êtes bien ?
 
-921
+924
 00:59:01,920 --> 00:59:02,920
 Mademoiselle ?
 
-922
+925
 00:59:03,920 --> 00:59:04,920
 Vous voulez de l'eau ?
 
-923
+926
 00:59:05,920 --> 00:59:06,920
 Qu'est-ce qu'il se passe, là ?
 
-924
+927
 00:59:06,920 --> 00:59:07,920
 Oh, rien.
 
-925
+928
 00:59:07,920 --> 00:59:08,920
 Où sont les autres ?
 
-926
+929
 00:59:08,920 --> 00:59:09,920
 Ils sont en bas.
 
-927
+930
 00:59:10,920 --> 00:59:11,920
 Ils prennent le café.
 
-928
+931
 00:59:11,920 --> 00:59:14,920
 Moi, je suis ici pour prendre mes gouttes.
 
-929
+932
 00:59:17,920 --> 00:59:20,920
 Ma santé, c'est pas très bonne, malheureusement.
 
-930
+933
 00:59:21,920 --> 00:59:22,920
 Excusez-moi.
 
-931
+934
 00:59:22,920 --> 00:59:27,920
 C'est possible de me donner cette fiole que c'est là sur ce coussin rouge ?
 
-932
+935
 00:59:34,920 --> 00:59:35,920
 Merci.
 
-933
+936
 00:59:43,920 --> 00:59:44,920
 Merci.
 
-934
+937
 00:59:46,920 --> 00:59:47,920
 Merci infiniment.
 
-935
+938
 00:59:50,920 --> 00:59:51,920
 Merci.
 
-936
+939
 01:00:20,920 --> 01:00:21,920
 Mais c'est moi !
 
-937
+940
 01:00:50,920 --> 01:00:51,920
 Non !
 
-938
+941
 01:00:57,920 --> 01:00:59,920
 Mais qu'est-ce qu'il se passe ?
 
-939
+942
 01:01:00,920 --> 01:01:01,920
 Mais où sont les autres ?
 
-940
+943
 01:01:01,920 --> 01:01:02,920
 Où est Phil ?
 
-941
+944
 01:01:05,920 --> 01:01:06,920
 Laissez-moi sortir !
 
-942
+945
 01:01:07,920 --> 01:01:09,920
 Laissez-moi sortir ou j'appelle au secours !
 
-943
+946
 01:01:20,920 --> 01:01:21,920
 Toujours rien ?
 
-944
+947
 01:01:25,920 --> 01:01:27,920
 De l'or, des diamants !
 
-945
+948
 01:01:27,920 --> 01:01:30,920
 Y'a pas l'ombre d'un mécanisme là-dedans, c'est à croire que j'ai rêvé.
 
-946
+949
 01:01:30,920 --> 01:01:33,920
 T'énerve pas, c'est comme si on était dehors.
 
-947
+950
 01:01:35,920 --> 01:01:36,920
 Tu crois que ça va tenir ?
 
-948
+951
 01:01:37,920 --> 01:01:39,920
 Mais si je fais un essai, c'est pas parce que j'ai peur.
 
-949
+952
 01:01:39,920 --> 01:01:42,920
 C'est pour te prouver que des draps noués comme ça, ça va tenir.
 
-950
+953
 01:01:42,920 --> 01:01:43,920
 Hé, hé !
 
-951
+954
 01:01:43,920 --> 01:01:47,920
 C'est ça, c'est ça, c'est ça, c'est ça, c'est ça, c'est ça, c'est ça, c'est ça.
 
-952
+955
 01:01:47,920 --> 01:01:50,920
 C'est pour te prouver que des draps noués comme ça, ça va tenir.
 
-953
+956
 01:01:52,920 --> 01:01:53,920
 Bon voyage, mon grand.
 
-954
+957
 01:01:55,920 --> 01:01:56,920
 Je te regarde.
 
-955
+958
 01:02:00,920 --> 01:02:02,920
 Vous avez raison, les draps ont tenu.
 
-956
+959
 01:02:03,920 --> 01:02:04,920
 Mais c'est pas une mauvaise idée.
 
-957
+960
 01:02:04,920 --> 01:02:05,920
 Ce qu'il faudrait, c'est un bon point d'appui.
 
-958
+961
 01:02:05,920 --> 01:02:07,920
 Comme ça, le plus petit d'entre nous pourrait descendre.
 
-959
+962
 01:02:07,920 --> 01:02:08,920
 Qu'est-ce que t'en penses, Phil ?
 
-960
+963
 01:02:09,920 --> 01:02:10,920
 Excellente idée, ça.
 
-961
+964
 01:02:11,920 --> 01:02:12,920
 Faut pas perdre de temps.
 
-962
+965
 01:02:14,920 --> 01:02:15,920
 Tiens, tiens, tiens-le.
 
-963
+966
 01:02:17,920 --> 01:02:18,920
 Un autre.
 
-964
+967
 01:02:19,920 --> 01:02:20,920
 Quoi, le plus petit ?
 
-965
+968
 01:02:24,920 --> 01:02:26,920
 Mais n'aie pas peur! Des draps noués comme ça.
 
-966
+969
 01:02:26,920 --> 01:02:28,920
 Ça va tenir.
 
-967
+970
 01:02:28,920 --> 01:02:29,920
 Allez.
 
-968
+971
 01:02:30,920 --> 01:02:31,920
 Je m'en fous.
 
-969
+972
 01:02:31,920 --> 01:02:33,920
 Vous serez responsable de ma mort.
 
-970
+973
 01:02:34,920 --> 01:02:35,920
 Ne me pousse pas !
 
-971
+974
 01:02:35,920 --> 01:02:36,920
 J'ai pas pied.
 
-972
+975
 01:02:36,920 --> 01:02:37,920
 Prêt ?
 
-973
+976
 01:02:37,920 --> 01:02:38,920
 On peut y aller, là.
 
-974
+977
 01:02:38,920 --> 01:02:39,920
 À toi de jouer, Jeannot.
 
-975
+978
 01:02:43,920 --> 01:02:45,920
 Vous êtes de beaux salauds.
 
-976
+979
 01:02:55,920 --> 01:02:56,920
 Hey !
 
-977
+980
 01:02:56,920 --> 01:02:57,920
 Laissez pas tomber.
 
-978
+981
 01:02:57,920 --> 01:03:04,920
 Je vais te tuer.
 
-979
+982
 01:03:04,920 --> 01:03:05,920
 Hey !
 
-980
+983
 01:03:06,920 --> 01:03:07,920
 Laissez pas tomber.
 
-981
+984
 01:03:08,920 --> 01:03:09,920
 Hey !
 
-982
+985
 01:03:09,920 --> 01:03:10,920
 Qu'est-ce qui se passe ?
 
-983
+986
 01:03:10,920 --> 01:03:11,920
 Rien.
 
-984
+987
 01:03:11,920 --> 01:03:12,920
 Rien ?
 
-985
+988
 01:03:12,920 --> 01:03:13,920
 Dis donc.
 
-986
+989
 01:03:15,920 --> 01:03:16,920
 Hey !
 
-987
+990
 01:03:16,920 --> 01:03:17,920
 Y a une fenêtre à droite.
 
-988
+991
 01:03:17,920 --> 01:03:18,920
 Donnez-moi un peu de ballance.
 
-989
+992
 01:03:18,920 --> 01:03:19,920
 Je vais essayer de l'atteindre.
 
-990
+993
 01:03:19,920 --> 01:03:20,920
 Non !
 
-991
+994
 01:03:21,920 --> 01:03:22,920
 Non !
 
-992
+995
 01:03:27,920 --> 01:03:28,920
 Jeannot !
 
-993
+996
 01:03:29,920 --> 01:03:30,920
 Réponds-nous !
 
-994
+997
 01:03:31,920 --> 01:03:33,920
 J'me demande où il a pu atterrir.
 
-995
+998
 01:03:33,920 --> 01:03:34,920
 Il est peut-être blessé.
 
-996
+999
 01:03:34,920 --> 01:03:35,920
 Mais il faut aller voir.
 
-997
+1000
 01:03:35,920 --> 01:03:37,920
 T'a vu mais qu'on vous en va pas pour des sanglots d' Russians.
 
-998
+1001
 01:03:37,920 --> 01:03:39,120
 Et vos uploaded,
 
-999
+1002
 01:03:39,920 --> 01:03:48,920
 Et vos uploaded,
 
-1000
+1003
 01:03:48,920 --> 01:03:51,440
 Oui, mais comment on va faire pour descendre tous les deux ?
 
-1001
+1004
 01:03:51,600 --> 01:03:53,600
 Le lit devrait tenir. Je vais l'accrocher.
 
-1002
+1005
 01:03:53,760 --> 01:03:55,200
 Eh !
 
-1003
+1006
 01:03:55,360 --> 01:03:57,040
 Ça pourrait te servir, hein ?
 
-1004
+1007
 01:03:58,760 --> 01:04:00,560
 Le Jeannot !
 
-1005
+1008
 01:04:00,720 --> 01:04:02,360
 Qu'est-ce qu'il s'est passé ? T'es blessé ?
 
-1006
+1009
 01:04:02,520 --> 01:04:04,280
 Mes jambes. Je sens plus mes jambes.
 
-1007
+1010
 01:04:04,440 --> 01:04:05,760
 Qu'est-ce ?
 
-1008
+1011
 01:04:05,920 --> 01:04:06,840
 Oui.
 
-1009
+1012
 01:04:07,000 --> 01:04:08,720
 Arrête ! C'est que le fou !
 
-1010
+1013
 01:04:08,880 --> 01:04:10,400
 Tu t'es drôlement arrangé, toi.
 
-1011
+1014
 01:04:10,560 --> 01:04:12,440
 Faites-moi un garrot. Aidez-moi !
 
-1012
+1015
 01:04:12,600 --> 01:04:14,200
 C'est pas un garrot qu'il te faut, mais une extreme onction.
 
-1013
+1016
 01:04:14,360 --> 01:04:15,520
 Pourquoi ?
 
-1014
+1017
 01:04:15,680 --> 01:04:18,400
 Regarde la tronche de ton voisin de lit.
 
-1015
+1018
 01:04:18,560 --> 01:04:21,480
 C'est pas les miennes ! C'était pas les miennes dans la boîte !
 
-1016
+1019
 01:04:21,640 --> 01:04:23,480
 C'est pas les miennes dans la boîte !
 
-1017
+1020
 01:04:28,840 --> 01:04:29,920
 Bah, où on est ?
 
-1018
+1021
 01:04:30,080 --> 01:04:31,680
 On dirait une crypte mortuaire.
 
-1019
+1022
 01:04:31,840 --> 01:04:34,560
 T'as du t'assoir sur le ventre d'un ancêtre du comte.
 
-1020
+1023
 01:04:34,720 --> 01:04:35,720
 Ah !
 
-1021
+1024
 01:04:38,280 --> 01:04:39,560
 J'ai pas peur.
 
-1022
+1025
 01:04:48,400 --> 01:04:49,880
 C'est une mauvaise blague.
 
-1023
+1026
 01:04:50,040 --> 01:04:51,680
 Et si c'était pas une blague ?
 
-1024
+1027
 01:04:51,840 --> 01:04:52,840
 Tu crois ?
 
-1025
+1028
 01:04:53,000 --> 01:04:54,240
 Arrêtez tous les deux !
 
-1026
+1029
 01:04:54,400 --> 01:04:57,240
 Dracula, pourquoi pas Frankenstein pendant que vous y êtes ?
 
-1027
+1030
 01:05:19,000 --> 01:05:20,920
 Hey, faut pas rigoler, là
 
-1028
+1031
 01:05:25,840 --> 01:05:27,960
 Salut, le vieux Marcel. Ça va ?
 
-1029
+1032
 01:05:29,280 --> 01:05:30,280
 Tranquille.
 
-1030
+1033
 01:05:40,280 --> 01:05:46,800
 Et puis tu mettras ça au compte du comte.
 
-1031
+1034
 01:06:13,080 --> 01:06:14,080
 Oh !
 
-1032
+1035
 01:06:20,680 --> 01:06:22,680
 Elle est magique.
 
-1033
+1036
 01:06:24,840 --> 01:06:28,840
 Ariane, je vous offre le partage de mon royaume.
 
-1034
+1037
 01:06:29,480 --> 01:06:31,480
 Mon royaume.
 
-1035
+1038
 01:06:33,560 --> 01:06:34,560
 Ariane ?
 
-1036
+1039
 01:06:35,960 --> 01:06:36,960
 Ariane ?
 
-1037
+1040
 01:06:38,120 --> 01:06:39,120
 Arrêtez-vous !
 
-1038
+1041
 01:06:39,280 --> 01:06:40,280
 Arrêtez-vous !
 
-1039
+1042
 01:06:41,280 --> 01:06:46,280
 Ariane, la princesse des tenebres.
 
-1040
+1043
 01:06:49,280 --> 01:06:50,280
 Maître, la brique !
 
-1041
+1044
 01:06:51,280 --> 01:06:52,280
 Elle est magique !
 
-1042
+1045
 01:06:57,280 --> 01:06:59,280
 Igor, je ne peux plus.
 
-1043
+1046
 01:07:00,280 --> 01:07:05,280
 Je ne peux pas traverser l'éternité avec un cloporte ignoble comme vous.
 
-1044
+1047
 01:07:07,280 --> 01:07:09,280
 Igor, hors de ma vue !
 
-1045
+1048
 01:07:11,280 --> 01:07:13,280
 Maître, loupé.
 
-1046
+1049
 01:07:27,280 --> 01:07:29,280
 Voilà la preuve qu'on est chez les vampires.
 
-1047
+1050
 01:07:29,280 --> 01:07:31,280
 C'est comme ça qu'on les tue, un pieux dans le coeur.
 
-1048
+1051
 01:07:31,280 --> 01:07:32,280
 Ça suffit, je me tire.
 
-1049
+1052
 01:07:32,280 --> 01:07:34,280
 Tu fais comme tu veux, mais je reste pour récupérer Ariane.
 
-1050
+1053
 01:07:34,280 --> 01:07:36,280
 Mais je reste pour récupérer Ariane.
 
-1051
+1054
 01:07:36,280 --> 01:07:37,280
 Écoute-le, gros malin.
 
-1052
+1055
 01:07:37,280 --> 01:07:40,280
 Et qu'est-ce que tu vas faire si elle est déjà vampirisée, ton Ariane ?
 
-1053
+1056
 01:07:41,280 --> 01:07:42,280
 Arrêtez-vous !
 
-1054
+1057
 01:07:43,280 --> 01:07:45,280
 On ne sait pas s'il comte est un vrai vampire.
 
-1055
+1058
 01:07:45,280 --> 01:07:47,280
 Et ça, c'est quoi ? Un cure-dent ?
 
-1056
+1059
 01:07:47,280 --> 01:07:49,280
 Tout ce qu'on sait, c'est qu'il a enlevé Ariane.
 
-1057
+1060
 01:07:49,280 --> 01:07:51,280
 Pour en savoir plus, il faudra aller lui demander carrément.
 
-1058
+1061
 01:07:51,280 --> 01:07:53,280
 Bien sûr, et qui va y aller ?
 
-1059
+1062
 01:07:56,280 --> 01:07:59,280
 Peut-être que le plus grand de nous trois, ça va le mettre en confiance.
 
-1060
+1063
 01:08:01,280 --> 01:08:02,280
 Ça, c'est une bonne idée.
 
-1061
+1064
 01:08:02,280 --> 01:08:05,280
 Le plus grand de nous trois, mais c'est bien sûr.
 
-1062
+1065
 01:08:05,280 --> 01:08:06,280
 Ça le mettra en confiance.
 
-1063
+1066
 01:08:06,280 --> 01:08:07,280
 Qu'est-ce que t'en penses, mon grand ?
 
-1064
+1067
 01:08:09,280 --> 01:08:10,280
 Vous êtes 2 beaux salauds, hein ?
 
-1065
+1068
 01:08:11,280 --> 01:08:12,280
 T'inquiètes pas.
 
-1066
+1069
 01:08:12,280 --> 01:08:14,280
 Au moindre danger, on est pret à intervenir.
 
-1067
+1070
 01:08:15,280 --> 01:08:17,280
 Tu l'amènes par ici, et craque, on lui fait sa fête, c'est tout.
 
-1068
+1071
 01:08:18,280 --> 01:08:19,280
 Comment il s'appelle, déjà ?
 
-1069
+1072
 01:08:22,280 --> 01:08:24,280
 Il s'appelle Dracula.
 
-1070
+1073
 01:08:28,280 --> 01:08:29,280
 Monsieur Dracula ?
 
-1071
+1074
 01:08:30,280 --> 01:08:31,280
 Plus fort.
 
-1072
+1075
 01:08:33,280 --> 01:08:34,280
 Encore plus fort que ça ?
 
-1073
+1076
 01:08:34,280 --> 01:08:36,280
 Ben oui, vas-y, pense à Ariane.
 
-1074
+1077
 01:08:42,280 --> 01:08:43,280
 Monsieur Dracula ?
 
-1075
+1078
 01:08:45,280 --> 01:08:46,280
 Monsieur Dracula ?
 
-1076
+1079
 01:08:47,280 --> 01:08:48,280
 C'est moi, Phil.
 
-1077
+1080
 01:08:49,280 --> 01:08:50,280
 Le fiancé d'Ariane.
 
-1078
+1081
 01:08:51,280 --> 01:08:52,280
 Je voudrais vous dire quelque chose.
 
-1079
+1082
 01:08:54,280 --> 01:08:55,280
 Dis-donc, tu charries.
 
-1080
+1083
 01:08:56,280 --> 01:08:57,280
 c'est pas moi.
 
-1081
+1084
 01:09:01,280 --> 01:09:02,280
 C'est complètement idiot comme plan.
 
-1082
+1085
 01:09:02,280 --> 01:09:03,280
 Ça se trouve qu'il est même pas dans le château.
 
-1083
+1086
 01:09:04,280 --> 01:09:06,280
 J'vas pas passer toute ma vie à l'appeler comme ça.
 
-1084
+1087
 01:09:12,280 --> 01:09:13,280
 Quoi ? Qu'est-ce qu'il y a ?
 
-1085
+1088
 01:09:18,280 --> 01:09:20,280
 Je peux faire quelque chose pour vous ?
 
-1086
+1089
 01:09:21,280 --> 01:09:23,280
 Oui, on voulait accrocher un tableau là.
 
-1087
+1090
 01:09:25,280 --> 01:09:26,280
 Ou là.
 
-1088
+1091
 01:09:27,280 --> 01:09:28,280
 Ça va pour la hauteur ?
 
-1089
+1092
 01:09:29,280 --> 01:09:31,280
 Lâchez-moi tout ça immédiatement.
 
-1090
+1093
 01:09:33,280 --> 01:09:34,280
 Oui, monsieur.
 
-1091
+1094
 01:09:40,280 --> 01:09:43,280
 Je suis très deçu de vous, mes petits.
 
-1092
+1095
 01:09:45,280 --> 01:09:47,280
 Parce que vous me sous-estimez.
 
-1093
+1096
 01:09:49,280 --> 01:09:51,280
 C'est pas avec cette sorte de ruse
 
-1094
+1097
 01:09:52,280 --> 01:09:56,280
 que vous attrapez conte Dracula.
 
-1095
+1098
 01:09:58,280 --> 01:09:59,280
 Parce que c'est vrai !
 
-1096
+1099
 01:10:00,280 --> 01:10:01,280
 Parce que c'est vrai !
 
-1097
+1100
 01:10:03,280 --> 01:10:05,280
 Mon vrai nom, c'est conte Dracula
 
-1098
+1101
 01:10:06,280 --> 01:10:08,280
 que je dois laisser ma fureur tomber sur vous !
 
-1099
+1102
 01:10:30,280 --> 01:10:32,280
 C'est pas comme ça que vous attrapez
 
-1100
+1103
 01:10:33,280 --> 01:10:37,280
 Dracula, le prince des vampires !
 
-1101
+1104
 01:10:38,280 --> 01:10:40,280
 Et Ariane, qu'est-ce que vous avez fait d'elle ?
 
-1102
+1105
 01:10:41,280 --> 01:10:43,280
 Je peur de vous décevoir, monsieur,
 
-1103
+1106
 01:10:44,280 --> 01:10:46,280
 mais je suis obligé de vous annoncer
 
-1104
+1107
 01:10:47,280 --> 01:10:50,280
 la rupture de vos fiançailles.
 
-1105
+1108
 01:10:51,280 --> 01:10:53,280
 Ariane, elle a choisi moi !
 
-1106
+1109
 01:10:54,280 --> 01:10:55,280
 Moi !
 
-1107
+1110
 01:10:55,280 --> 01:10:57,280
 Ariane, elle a choisi moi !
 
-1108
+1111
 01:10:58,280 --> 01:10:59,280
 Moi !
 
-1109
+1112
 01:10:59,280 --> 01:11:00,280
 Le maître du monde !
 
-1110
+1113
 01:11:00,280 --> 01:11:02,280
 Parce que je suis le maître du monde !
 
-1111
+1114
 01:11:03,280 --> 01:11:04,280
 Regarde.
 
-1112
+1115
 01:11:05,280 --> 01:11:06,280
 Regarde.
 
-1113
+1116
 01:11:07,280 --> 01:11:12,280
 Elle attend pour un petit signal de moi pour apparaître.
 
-1114
+1117
 01:11:17,280 --> 01:11:19,280
 Je suis là, maître.
 
-1115
+1118
 01:11:20,280 --> 01:11:22,280
 Ariane !
 
-1116
+1119
 01:11:22,280 --> 01:11:23,280
 C'est moi, tu m'entends ?
 
-1117
+1120
 01:11:23,280 --> 01:11:25,280
 Oui, Phil, je t'entends.
 
-1118
+1121
 01:11:26,280 --> 01:11:27,280
 Ariane !
 
-1119
+1122
 01:11:29,280 --> 01:11:30,280
 Regarde-moi !
 
-1120
+1123
 01:11:30,280 --> 01:11:32,280
 Écoute-moi, tout est fini maintenant.
 
-1121
+1124
 01:11:33,280 --> 01:11:35,280
 On va quitter ce château maudit. Viens.
 
-1122
+1125
 01:11:36,280 --> 01:11:38,280
 Non, Phil, je ne quitterai pas ce château.
 
-1123
+1126
 01:11:38,280 --> 01:11:40,280
 C'est ici que je demeure dorenavant
 
-1124
+1127
 01:11:40,280 --> 01:11:42,280
 auprès de mon seigneur et maître
 
-1125
+1128
 01:11:42,280 --> 01:11:44,280
 à qui j'appartiens corps et âme.
 
-1126
+1129
 01:11:54,280 --> 01:11:56,280
 Alors, c'est ici que tu habites ?
 
-1127
+1130
 01:11:57,280 --> 01:11:58,280
 Non.
 
-1128
+1131
 01:11:58,280 --> 01:11:59,280
 Monsieur, dame.
 
-1129
+1132
 01:12:00,280 --> 01:12:02,280
 Pour la couverture, je lui laisse.
 
-1130
+1133
 01:12:02,280 --> 01:12:03,280
 On ne peut pas lui enlever.
 
-1131
+1134
 01:12:03,280 --> 01:12:05,280
 Non, c'est à moi la couverture !
 
-1132
+1135
 01:12:05,280 --> 01:12:06,280
 Allez.
 
-1133
+1136
 01:12:09,280 --> 01:12:10,280
 Monsieur, dame.
 
-1134
+1137
 01:12:13,280 --> 01:12:14,280
 Attrape-le !
 
-1135
+1138
 01:12:21,280 --> 01:12:22,280
 Qui c'est ?
 
-1136
+1139
 01:12:24,280 --> 01:12:26,280
 Vous allez casser la porte ?
 
-1137
+1140
 01:12:27,280 --> 01:12:30,280
 Igor, mon petit, j'ai besoin de cette fille.
 
-1138
+1141
 01:12:31,280 --> 01:12:33,280
 Je dois m'en aller, il faut que j'aille le rejoigne.
 
-1139
+1142
 01:12:33,280 --> 01:12:34,280
 Laissez-moi partir.
 
-1140
+1143
 01:12:34,280 --> 01:12:35,280
 Il faut faire quelque chose.
 
-1141
+1144
 01:12:35,280 --> 01:12:37,280
 Je ne vais pas la tenir toute la nuit.
 
-1142
+1145
 01:12:37,280 --> 01:12:38,280
 Si elle est hypnotisée,
 
-1143
+1146
 01:12:38,280 --> 01:12:40,280
 ce qu'il lui faudrait, c'est une bonne paire de baffes.
 
-1144
+1147
 01:12:40,280 --> 01:12:41,280
 Tu permets ?
 
-1145
+1148
 01:12:41,280 --> 01:12:42,280
 Oui, mais fais vite.
 
-1146
+1149
 01:12:44,280 --> 01:12:45,280
 Non, non, non !
 
-1147
+1150
 01:12:46,280 --> 01:12:48,280
 Ce n'est pas une bonne idée, ton truc.
 
-1148
+1151
 01:12:50,280 --> 01:12:51,280
 C'est des menteurs !
 
-1149
+1152
 01:12:51,280 --> 01:12:52,280
 Menteurs !
 
-1150
+1153
 01:12:53,280 --> 01:12:55,280
 Le téléphone n'était pas en dérangement.
 
-1151
+1154
 01:12:57,280 --> 01:12:59,280
 Il l'avait caché dans le fromage blanc.
 
-1152
+1155
 01:13:01,280 --> 01:13:02,280
 Oui, allô ?
 
-1153
+1156
 01:13:02,280 --> 01:13:03,280
 Attendez, j'entends mal.
 
-1154
+1157
 01:13:04,280 --> 01:13:05,280
 Allô ?
 
-1155
+1158
 01:13:05,280 --> 01:13:06,280
 Dis que je ne suis pas là !
 
-1156
+1159
 01:13:08,280 --> 01:13:09,280
 Que je dors !
 
-1157
+1160
 01:13:09,280 --> 01:13:10,280
 Ah non, non, je regrette.
 
-1158
+1161
 01:13:10,280 --> 01:13:12,280
 Monsieur Dracula n'est pas là, il dort.
 
-1159
+1162
 01:13:13,280 --> 01:13:14,280
 Bonsoir.
 
-1160
+1163
 01:13:15,280 --> 01:13:16,280
 Qui c'était ?
 
-1161
+1164
 01:13:17,280 --> 01:13:19,280
 C'était le marchand de cacahuètes.
 
-1162
+1165
 01:13:19,280 --> 01:13:21,280
 Le marchand de cacahuètes, quoi ?
 
-1163
+1166
 01:13:21,280 --> 01:13:23,280
 Oui, mais il dit n'importe quoi, maître.
 
-1164
+1167
 01:13:23,280 --> 01:13:24,280
 Pourquoi voulez-vous
 
-1165
+1168
 01:13:24,280 --> 01:13:25,280
 qu'un marchand de cacahuètes
 
-1166
+1169
 01:13:25,280 --> 01:13:26,280
 téléphone à cette heure-ci ?
 
-1167
+1170
 01:13:26,280 --> 01:13:28,280
 Mais qu'est-ce qu'ils avaient à dire, ça ?
 
-1168
+1171
 01:13:30,280 --> 01:13:32,280
 Regardez, policiers, il faut faire le 6.
 
-1169
+1172
 01:13:35,280 --> 01:13:36,280
 Allô ?
 
-1170
+1173
 01:13:36,280 --> 01:13:37,280
 Ici le château de Bistritz.
 
-1171
+1174
 01:13:37,280 --> 01:13:39,280
 Le comte de Dracula veut nous tuer
 
-1172
+1175
 01:13:39,280 --> 01:13:41,280
 et une femme, elle a été vampirisée.
 
-1173
+1176
 01:13:41,280 --> 01:13:43,280
 Poil au nez, hey, connard !
 
-1174
+1177
 01:13:43,280 --> 01:13:44,280
 Vous trouvez ça drôle
 
-1175
+1178
 01:13:44,280 --> 01:13:46,280
 de faire des plaisanteries à cette heure-ci ?
 
-1176
+1179
 01:13:46,280 --> 01:13:47,280
 Il ne m'a pas cru.
 
-1177
+1180
 01:13:47,280 --> 01:13:48,280
 On est foutus.
 
-1178
+1181
 01:13:48,280 --> 01:13:49,280
 Quatre-sept heures.
 
-1179
+1182
 01:13:49,280 --> 01:13:51,280
 Enfin, un type qui téléphonait
 
-1180
+1183
 01:13:51,280 --> 01:13:53,280
 soi-disant du château.
 
-1181
+1184
 01:13:53,280 --> 01:13:55,280
 Le comte serait devenu vampire
 
-1182
+1185
 01:13:55,280 --> 01:13:57,280
 et il aurait attaqué une jeune fille.
 
-1183
+1186
 01:13:57,280 --> 01:13:59,280
 Qu'est-ce qu'il faut pas entendre ?
 
-1184
+1187
 01:13:59,280 --> 01:14:00,280
 Ça recommence !
 
-1185
+1188
 01:14:00,280 --> 01:14:01,280
 Vous l'avez bien dit.
 
-1186
+1189
 01:14:01,280 --> 01:14:03,280
 Vous ne voulez pas me croire.
 
-1187
+1190
 01:14:04,280 --> 01:14:07,280
 Le vampir est revenu.
 
-1188
+1191
 01:14:07,280 --> 01:14:09,280
 Vous allez voir que je ne suis pas fou.
 
-1189
+1192
 01:14:09,280 --> 01:14:10,280
 Je ne suis pas fou du tout.
 
-1190
+1193
 01:14:10,280 --> 01:14:11,280
 On est loin d'être foutus
 
-1191
+1194
 01:14:11,280 --> 01:14:13,280
 si on qu'il y a jusqu'à l'heure de la mort.
 
-1192
+1195
 01:14:13,280 --> 01:14:14,280
 On est loin d'être foutus
 
-1193
+1196
 01:14:14,280 --> 01:14:16,280
 si on qu'il y a jusqu'à l'heure de la mort.
 
-1194
+1197
 01:14:16,280 --> 01:14:17,280
 Les vampires ne supportent pas
 
-1195
+1198
 01:14:17,280 --> 01:14:18,280
 la lumière du jour.
 
-1196
+1199
 01:14:18,280 --> 01:14:19,280
 Il sera obligé d'aller se réfugier
 
-1197
+1200
 01:14:19,280 --> 01:14:20,280
 dans son cercueil.
 
-1198
+1201
 01:14:20,280 --> 01:14:21,280
 Ça nous fait seulement
 
-1199
+1202
 01:14:21,280 --> 01:14:22,280
 deux ou trois heures à tenir.
 
-1200
+1203
 01:14:22,280 --> 01:14:23,280
 Dis donc, je me vois mal
 
-1201
+1204
 01:14:23,280 --> 01:14:24,280
 tenir comme ça
 
-1202
+1205
 01:14:24,280 --> 01:14:25,280
 pendant deux ou trois heures.
 
-1203
+1206
 01:14:25,280 --> 01:14:27,280
 Il faudrait que j'ai une idée.
 
-1204
+1207
 01:14:27,280 --> 01:14:28,280
 Non, non, non.
 
-1205
+1208
 01:14:28,280 --> 01:14:29,280
 T'inquiètes pas.
 
-1206
+1209
 01:14:29,280 --> 01:14:31,280
 Ariane, écoute ma voix.
 
-1207
+1210
 01:14:31,280 --> 01:14:32,280
 J'écoute.
 
-1208
+1211
 01:14:32,280 --> 01:14:33,280
 C'est Gérard.
 
-1209
+1212
 01:14:33,280 --> 01:14:34,280
 Tu te rappelles ?
 
-1210
+1213
 01:14:34,280 --> 01:14:35,280
 Lépuce.
 
-1211
+1214
 01:14:35,280 --> 01:14:36,280
 Les Puces.
 
-1212
+1215
 01:14:36,280 --> 01:14:38,280
 Paris.
 
-1213
+1216
 01:14:38,280 --> 01:14:39,280
 Oui.
 
-1214
+1217
 01:14:39,280 --> 01:14:40,280
 La Tour Eiffel.
 
-1215
+1218
 01:14:40,280 --> 01:14:41,280
 Brigitte Bardot.
 
-1216
+1219
 01:14:41,280 --> 01:14:42,280
 Le général de Gaulle.
 
-1217
+1220
 01:14:42,280 --> 01:14:43,280
 Paris.
 
-1218
+1221
 01:14:43,280 --> 01:14:45,280
 La France.
 
-1219
+1222
 01:14:45,280 --> 01:14:46,280
 Le fromage.
 
-1220
+1223
 01:14:46,280 --> 01:14:47,280
 La France, Ariane.
 
-1221
+1224
 01:14:47,280 --> 01:14:49,280
 Allons enfants de la patrie.
 
-1222
+1225
 01:14:49,280 --> 01:14:51,280
 Le jour de gloire est arrivée.
 
-1223
+1226
 01:14:51,280 --> 01:14:52,280
 Vas-y.
 
-1224
+1227
 01:14:52,280 --> 01:14:53,280
 Vas-y, Ariane.
 
-1225
+1228
 01:14:53,280 --> 01:14:54,280
 Vas-y.
 
-1226
+1229
 01:14:54,280 --> 01:14:55,280
 Contre nous, de la tyrannie.
 
-1227
+1230
 01:14:55,280 --> 01:14:56,280
 Ouais.
 
-1228
+1231
 01:14:56,280 --> 01:14:57,280
 Tu le tiens.
 
-1229
+1232
 01:14:57,280 --> 01:14:58,280
 L'etendard sanglant est levé.
 
-1230
+1233
 01:14:58,280 --> 01:15:03,280
 Contre nous de la tyrannie
 
-1231
+1234
 01:15:03,280 --> 01:15:04,280
 Oui, tu le tiens !
 
-1232
+1235
 01:15:04,280 --> 01:15:12,280
 L'etendard sanglant est levé.
 
-1233
+1236
 01:15:12,280 --> 01:15:16,280
 Entendez-vous dans nos campagnes
 
-1234
+1237
 01:15:17,280 --> 01:15:19,280
 Phil, Jean vois !
 
-1235
+1238
 01:15:21,280 --> 01:15:23,280
 Mais qu'est-ce qui s'est passé ?
 
-1236
+1239
 01:15:23,280 --> 01:15:25,280
 On t'expliquera plus tard, allez !
 
-1237
+1240
 01:15:25,280 --> 01:15:28,280
 Allons au fond de la patrie
 
-1238
+1241
 01:15:29,280 --> 01:15:32,280
 Non, c'est pas tout de suite, je viens de laver par terre, c'est pas sec.
 
-1239
+1242
 01:15:33,280 --> 01:15:35,280
 Je le tenais presque.
 
-1240
+1243
 01:15:35,280 --> 01:15:37,280
 Dis-moi mon bébé, qu'est-ce qui se passe ?
 
-1241
+1244
 01:15:37,280 --> 01:15:38,280
 C'est pas sec.
 
-1242
+1245
 01:15:38,280 --> 01:15:39,280
 Quoi c'est pas sec ?
 
-1243
+1246
 01:15:39,280 --> 01:15:41,280
 C'est mouillé, c'est propre, on peut pas passer.
 
-1244
+1247
 01:15:41,280 --> 01:15:42,280
 Tu es fou !
 
-1245
+1248
 01:15:43,280 --> 01:15:44,280
 Tu es fou !
 
-1246
+1249
 01:15:55,280 --> 01:15:57,280
 C'est impossible, il doit être là.
 
-1247
+1250
 01:15:59,280 --> 01:16:01,280
 Je vois rien, apportez-moi des lumières.
 
-1248
+1251
 01:16:07,280 --> 01:16:09,280
 Je ne vais pas y aller, arrêtez !
 
-1249
+1252
 01:16:11,280 --> 01:16:13,280
 Je veux vous dire quelque chose, je veux vous dire quelque chose.
 
-1250
+1253
 01:16:13,280 --> 01:16:15,280
 Je ne veux pas vous dire quelque chose.
 
-1251
+1254
 01:16:15,280 --> 01:16:17,280
 Vous m'avez fait ça, vous m'avez fait ça.
 
-1252
+1255
 01:16:17,280 --> 01:16:19,280
 Je ne veux pas vous dire quelque chose.
 
-1253
+1256
 01:16:21,280 --> 01:16:23,280
 Je ne veux pas vous dire quelque chose.
 
-1254
+1257
 01:16:23,280 --> 01:16:28,280
 Dis-en là, je connais très bien, je le nez.
 
-1255
+1258
 01:16:54,280 --> 01:16:55,280
 Qu'est-ce qu'il se passe ?
 
-1256
+1259
 01:16:55,280 --> 01:16:56,280
 C'est chaud !
 
-1257
+1260
 01:16:56,280 --> 01:16:58,280
 Il n'y a pas de raison de hurler comme ça.
 
-1258
+1261
 01:16:59,280 --> 01:17:01,280
 Allez, fermez la porte d'entrée.
 
-1259
+1262
 01:17:01,280 --> 01:17:03,280
 Ils doivent pas quitter le château.
 
-1260
+1263
 01:17:05,280 --> 01:17:07,280
 J'ai besoin de cette fille.
 
-1261
+1264
 01:17:07,280 --> 01:17:09,280
 J'ai besoin de cette fille !
 
-1262
+1265
 01:17:10,280 --> 01:17:12,280
 Dis donc, on a eu chaud.
 
-1263
+1266
 01:17:12,280 --> 01:17:13,280
 Oui, ça fait rire.
 
-1264
+1267
 01:17:13,280 --> 01:17:14,280
 Oh non !
 
-1265
+1268
 01:17:14,280 --> 01:17:16,280
 On ne tiendra jamais jusqu'à l'aube.
 
-1266
+1269
 01:17:16,280 --> 01:17:17,280
 Ça dépend.
 
-1267
+1270
 01:17:17,280 --> 01:17:19,280
 Il y a des trucs qui leur font peur aux vampires.
 
-1268
+1271
 01:17:19,280 --> 01:17:20,280
 Comme les crucifix ?
 
-1269
+1272
 01:17:20,280 --> 01:17:22,280
 Exactement, ou bien l'ail.
 
-1270
+1273
 01:17:22,280 --> 01:17:25,280
 Si on pouvait trouver des trucs comme ça, on pourrait se protéger contre lui.
 
-1271
+1274
 01:17:28,280 --> 01:17:31,280
 Maintenant, c'est impossible qu'ils nous échappent.
 
-1272
+1275
 01:17:32,280 --> 01:17:36,280
 Nous commençons à chercher par là.
 
-1273
+1276
 01:17:44,280 --> 01:17:46,280
 ma couverture !
 
-1274
+1277
 01:17:46,280 --> 01:17:48,280
 Je suis là.
 
-1275
+1278
 01:17:49,280 --> 01:17:51,280
 Je vais aller faire pipi.
 
-1276
+1279
 01:17:52,280 --> 01:17:53,280
 C'est parti !
 
-1277
+1280
 01:17:58,280 --> 01:17:59,280
 J'ai peur !
 
-1278
+1281
 01:17:59,280 --> 01:18:01,280
 Ne t'inquiète pas, on est là-bas.
 
-1279
+1282
 01:18:02,280 --> 01:18:03,280
 C'est parti !
 
-1280
+1283
 01:18:04,280 --> 01:18:05,280
 C'est parti !
 
-1281
+1284
 01:18:19,280 --> 01:18:20,280
 C'est parti !
 
-1282
+1285
 01:18:31,280 --> 01:18:32,280
 C'est parti !
 
-1283
+1286
 01:18:59,280 --> 01:19:00,280
 Alors ?
 
-1284
+1287
 01:19:01,280 --> 01:19:03,280
 Mon chéri, c'est moi qu'il veut.
 
-1285
+1288
 01:19:03,280 --> 01:19:05,280
 Je vais me rendre et vous aurez la vie sauve.
 
-1286
+1289
 01:19:05,280 --> 01:19:06,280
 Pas question.
 
-1287
+1290
 01:19:06,280 --> 01:19:08,280
 On mourra tous s'il le faut.
 
-1288
+1291
 01:19:08,280 --> 01:19:10,280
 C'est gentil ce qu'elle nous propose.
 
-1289
+1292
 01:19:10,280 --> 01:19:11,280
 On pourrait peut-être...
 
-1290
+1293
 01:19:11,280 --> 01:19:13,280
 Il nous reste une carte à jouer.
 
-1291
+1294
 01:19:16,280 --> 01:19:19,280
 Je vous préviens, ce saucisson est à l'ail.
 
-1292
+1295
 01:19:19,280 --> 01:19:22,280
 Si jamais vous approchez, je n'hésiterai pas à m'en servir.
 
-1293
+1296
 01:19:22,280 --> 01:19:27,280
 Cher ami, cette charcuterie, elle a la couleur des saucissons à l'ail.
 
-1294
+1297
 01:19:27,280 --> 01:19:29,280
 C'est l'odeur des saucissons à l'ail.
 
-1295
+1298
 01:19:29,280 --> 01:19:32,280
 Mais ce n'est pas du saucisson à l'ail.
 
-1296
+1299
 01:19:32,280 --> 01:19:37,280
 C'est du bon saucisson de notre pays roumaine.
 
-1297
+1300
 01:19:37,280 --> 01:19:39,280
 Du Sporkich !
 
-1298
+1301
 01:19:45,280 --> 01:19:47,280
 Tiens bon Gérard, tiens bon !
 
-1299
+1302
 01:19:55,280 --> 01:19:56,280
 Allez, dépêchez-vous !
 
-1300
+1303
 01:19:57,280 --> 01:20:00,280
 Allez les projecteurs, dépêchez-vous !
 
-1301
+1304
 01:20:03,280 --> 01:20:04,280
 Dracula !
 
-1302
+1305
 01:20:06,280 --> 01:20:07,280
 Lâche cet homme !
 
-1303
+1306
 01:20:07,280 --> 01:20:09,280
 Immédiatement !
 
-1304
+1307
 01:20:09,280 --> 01:20:11,280
 N'écoutez pas ce qu'elle dit.
 
-1305
+1308
 01:20:11,280 --> 01:20:13,280
 C'est très bien, c'est très bien.
 
-1306
+1309
 01:20:13,280 --> 01:20:16,280
 Voyons Dracula, ne sois pas stupide.
 
-1307
+1310
 01:20:16,280 --> 01:20:20,280
 Un noble de ton rang n'obéit pas à des pulsions si primaires.
 
-1308
+1311
 01:20:20,280 --> 01:20:22,280
 Ressaisis-toi !
 
-1309
+1312
 01:20:22,280 --> 01:20:24,280
 Je t'ai dit de lâcher cet homme !
 
-1310
+1313
 01:20:24,280 --> 01:20:26,280
 Immédiatement !
 
-1311
+1314
 01:20:26,280 --> 01:20:27,280
 Fais-le !
 
-1312
+1315
 01:20:27,280 --> 01:20:29,280
 Et reste où tu es, j'arrive !
 
-1313
+1316
 01:20:29,280 --> 01:20:30,280
 Venez vous deux !
 
-1314
+1317
 01:20:30,280 --> 01:20:32,280
 Tu as entendu cette voix ?
 
-1315
+1318
 01:20:32,280 --> 01:20:35,280
 Quelle merveille ! Quelle puissance !
 
-1316
+1319
 01:20:35,280 --> 01:20:37,280
 Quelle autorité !
 
-1317
+1320
 01:20:38,280 --> 01:20:40,280
 Je veux voir cette personne !
 
-1318
+1321
 01:20:40,280 --> 01:20:43,280
 Tu commences à m'échauffer les oreilles, Dracula !
 
-1319
+1322
 01:20:43,280 --> 01:20:45,280
 Je t'ai dit de lâcher cet homme !
 
-1320
+1323
 01:20:46,280 --> 01:20:48,280
 J'aime mieux ça !
 
-1321
+1324
 01:20:48,280 --> 01:20:51,280
 Je crois que nous allons pouvoir nous entendre, toi et moi.
 
-1322
+1325
 01:20:51,280 --> 01:20:53,280
 Merveilleuse !
 
-1323
+1326
 01:20:53,280 --> 01:20:56,280
 Je veux faire tout ce que vous voulez.
 
-1324
+1327
 01:20:56,280 --> 01:20:58,280
 Allons-y !
 
-1325
+1328
 01:20:58,280 --> 01:21:00,280
 Un peu de sérieux !
 
-1326
+1329
 01:21:00,280 --> 01:21:03,280
 Passez-lui les menottes et emmenez-le !
 
-1327
+1330
 01:21:03,280 --> 01:21:05,280
 Faites ce qu'elle vous dit, Imbecile !
 
-1328
+1331
 01:21:05,280 --> 01:21:07,280
 Allez !
 
-1329
+1332
 01:21:07,280 --> 01:21:09,280
 Ne me touche pas !
 
-1330
+1333
 01:21:09,280 --> 01:21:12,280
 Oh ne touche pas, le comte de Bistriz !
 
-1331
+1334
 01:21:14,280 --> 01:21:16,280
 Tout ce que vous voulez !
 
-1332
+1335
 01:21:19,280 --> 01:21:21,280
 Merci de nous avoir servi de témoins.
 
-1333
+1336
 01:21:21,280 --> 01:21:23,280
 D'autres ne l'auraient pas fait.
 
-1334
+1337
 01:21:23,280 --> 01:21:25,280
 Encore bravo !
 
-1335
+1338
 01:21:25,280 --> 01:21:28,280
 Et que Monsieur le Comte prenne garde à la lumière au jour.
 
-1336
+1339
 01:21:28,280 --> 01:21:31,280
 Ne fais pas des soucis, mon Igor !
 
-1337
+1340
 01:21:31,280 --> 01:21:33,280
 Elle a prévu tout !
 
-1338
+1341
 01:21:33,280 --> 01:21:36,280
 Alors, Dracula, c'est pour aujourd'hui ou pour demain ?
 
-1339
+1342
 01:21:36,280 --> 01:21:38,280
 J'arrive, j'arrive.
 
-1340
+1343
 01:21:38,280 --> 01:21:40,280
 Doudouze, j'arrive !
 
-1341
+1344
 01:21:41,280 --> 01:21:42,280
 Hé !
 
-1342
+1345
 01:21:42,280 --> 01:21:44,280
 J'arrive, Doudouze !
 
-1343
+1346
 01:21:49,280 --> 01:21:50,280
 Au revoir !
 
-1344
+1347
 01:21:51,280 --> 01:21:52,280
 Au revoir !
 
-1345
+1348
 01:22:21,280 --> 01:22:25,280
 Sous-titrage ST'501
 
-1346
+1349
 01:22:51,280 --> 01:22:55,280
 Sous-titrage ST'501
 
-1347
+1350
 01:23:21,280 --> 01:23:24,280
 Sous-titrage ST'501
 
